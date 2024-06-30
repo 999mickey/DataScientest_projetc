@@ -1,0 +1,33 @@
+,user_id,user_likes,track_id,sentiment_score,genre
+0,user0,"['pop', 'rap']",track0_rap,,rap
+1,user0,"['pop', 'rap']",track1_rap,10.0,rap
+2,user0,"['pop', 'rap']",track2_rap,10.,rap
+3,user0,"['pop', 'rap']",track3_rap,7.0,rap
+4,user0,"['pop', 'rap']",track4_rap,,rap
+5,user1,"['classic', 'rap', 'funk']",track0_classic,7.0,classic
+6,user1,"['classic', 'rap', 'funk']",track1_classic,,classic
+7,user1,"['classic', 'rap', 'funk']",track2_rap,4.0,rap
+8,user1,"['classic', 'rap', 'funk']",track3_rap,9.0,rap
+9,user1,"['classic', 'rap', 'funk']",track4_rap,4.0,rap
+10,user2,"['rap']",track0_rap,7.0,rap
+11,user2,"['rap']",track1_rap,7.0,rap
+12,user2,"['rap']",track2_rap,5.0,rap
+13,user2,"['rap']",track3_rap,7.0,rap
+14,user2,"['rap']",track4_rap,7.0,rap
+15,user7,"['pop']",track106_pop,,pop
+16,user7,['pop'],track193_pop,5.0,pop
+17,user7,['pop'],track237_pop,7.0,pop
+18,user7,['pop'],track145_pop,3.0,pop
+19,user7,['pop'],track44_pop,10.0,pop
+20,user7,['pop'],track371_pop,7.0,pop
+21,user7,['pop'],track57_pop,10.0,pop
+22,user7,['pop'],track471_pop,,pop
+23,user7,['pop'],track427_pop,7.0,pop
+24,user0,"['pop', 'rap']",track428_pop,7.0,pop
+25,user0,"['pop', 'rap']",track4289_pop,9.0,pop
+26,user0,"['pop', 'rap']",track428_pop,7.0,pop
+27,user0,"['pop', 'rap']",track4289_pop,9.0,pop
+28,user0,"['pop', 'rap']",track145_pop,3.0,pop
+29,user0,"['pop', 'rap']",track44_pop,9.0,pop
+30,user0,"['pop', 'rap']",track371_pop,7.0,pop
+31,user8,['pop'],track427_pop,7.0,pop

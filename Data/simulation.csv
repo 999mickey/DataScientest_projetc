@@ -1,0 +1,501 @@
+,user_id,user_likes,track_id,sentiment_score,genre
+0,user2,"['rock', 'rap']",track30_rock,4.0,rock
+1,user2,"['rock', 'rap']",track23_rap,9.0,rap
+2,user2,"['rock', 'rap']",track17_rock,9.0,rock
+3,user2,"['rock', 'rap']",track36_rock,5.0,rock
+4,user2,"['rock', 'rap']",track49_rap,9.0,rap
+5,user2,"['rock', 'rap']",track4_rock,4.0,rock
+6,user2,"['rock', 'rap']",track19_rock,9.0,rock
+7,user2,"['rock', 'rap']",track35_rap,7.0,rap
+8,user2,"['rock', 'rap']",track28_rock,3.0,rock
+9,user2,"['rock', 'rap']",track43_rap,7.0,rap
+10,user2,"['rock', 'rap']",track15_rock,7.0,rock
+11,user2,"['rock', 'rap']",track22_rock,5.0,rock
+12,user2,"['rock', 'rap']",track23_rock,9.0,rock
+13,user2,"['rock', 'rap']",track35_rap,7.0,rap
+14,user2,"['rock', 'rap']",track45_rap,7.0,rap
+15,user2,"['rock', 'rap']",track20_rap,9.0,rap
+16,user2,"['rock', 'rap']",track41_rock,7.0,rock
+17,user2,"['rock', 'rap']",track23_rap,9.0,rap
+18,user2,"['rock', 'rap']",track24_rap,5.0,rap
+19,user2,"['rock', 'rap']",track49_rap,9.0,rap
+20,user2,"['rock', 'rap']",track44_rock,7.0,rock
+21,user2,"['rock', 'rap']",track0_rock,7.0,rock
+22,user2,"['rock', 'rap']",track45_rap,7.0,rap
+23,user2,"['rock', 'rap']",track49_rock,5.0,rock
+24,user2,"['rock', 'rap']",track23_rap,9.0,rap
+25,user2,"['rock', 'rap']",track12_rock,3.0,rock
+26,user2,"['rock', 'rap']",track33_rap,,rap
+27,user2,"['rock', 'rap']",track48_rock,3.0,rock
+28,user2,"['rock', 'rap']",track33_rap,,rap
+29,user2,"['rock', 'rap']",track34_rock,4.0,rock
+30,user2,"['rock', 'rap']",track4_rap,7.0,rap
+31,user2,"['rock', 'rap']",track15_rap,9.0,rap
+32,user2,"['rock', 'rap']",track34_rap,,rap
+33,user2,"['rock', 'rap']",track22_rap,,rap
+34,user2,"['rock', 'rap']",track19_rap,9.0,rap
+35,user2,"['rock', 'rap']",track34_rap,,rap
+36,user2,"['rock', 'rap']",track24_rock,3.0,rock
+37,user2,"['rock', 'rap']",track34_rock,4.0,rock
+38,user2,"['rock', 'rap']",track4_rap,7.0,rap
+39,user2,"['rock', 'rap']",track24_rap,5.0,rap
+40,user2,"['rock', 'rap']",track18_rock,4.0,rock
+41,user2,"['rock', 'rap']",track28_rock,3.0,rock
+42,user2,"['rock', 'rap']",track45_rap,7.0,rap
+43,user2,"['rock', 'rap']",track33_rap,,rap
+44,user2,"['rock', 'rap']",track19_rap,9.0,rap
+45,user2,"['rock', 'rap']",track39_rock,9.0,rock
+46,user2,"['rock', 'rap']",track28_rap,7.0,rap
+47,user2,"['rock', 'rap']",track30_rock,4.0,rock
+48,user2,"['rock', 'rap']",track8_rap,7.0,rap
+49,user2,"['rock', 'rap']",track47_rock,9.0,rock
+50,user6,"['classic', 'disco']",track19_disco,9.0,disco
+51,user6,"['classic', 'disco']",track4_classic,5.0,classic
+52,user6,"['classic', 'disco']",track9_classic,5.0,classic
+53,user6,"['classic', 'disco']",track25_classic,5.0,classic
+54,user6,"['classic', 'disco']",track34_disco,9.0,disco
+55,user6,"['classic', 'disco']",track47_classic,5.0,classic
+56,user6,"['classic', 'disco']",track16_classic,5.0,classic
+57,user6,"['classic', 'disco']",track15_classic,9.0,classic
+58,user6,"['classic', 'disco']",track12_classic,4.0,classic
+59,user6,"['classic', 'disco']",track6_classic,3.0,classic
+60,user6,"['classic', 'disco']",track46_disco,7.0,disco
+61,user6,"['classic', 'disco']",track49_disco,4.0,disco
+62,user6,"['classic', 'disco']",track9_disco,3.0,disco
+63,user6,"['classic', 'disco']",track25_disco,4.0,disco
+64,user6,"['classic', 'disco']",track14_disco,9.0,disco
+65,user6,"['classic', 'disco']",track6_classic,3.0,classic
+66,user6,"['classic', 'disco']",track48_disco,3.0,disco
+67,user6,"['classic', 'disco']",track47_classic,5.0,classic
+68,user6,"['classic', 'disco']",track7_disco,5.0,disco
+69,user6,"['classic', 'disco']",track34_disco,9.0,disco
+70,user6,"['classic', 'disco']",track17_disco,,disco
+71,user6,"['classic', 'disco']",track30_disco,3.0,disco
+72,user6,"['classic', 'disco']",track9_disco,3.0,disco
+73,user6,"['classic', 'disco']",track7_classic,,classic
+74,user6,"['classic', 'disco']",track0_disco,,disco
+75,user6,"['classic', 'disco']",track41_disco,3.0,disco
+76,user6,"['classic', 'disco']",track14_classic,,classic
+77,user6,"['classic', 'disco']",track9_disco,3.0,disco
+78,user6,"['classic', 'disco']",track41_disco,3.0,disco
+79,user6,"['classic', 'disco']",track30_classic,4.0,classic
+80,user6,"['classic', 'disco']",track21_classic,7.0,classic
+81,user6,"['classic', 'disco']",track6_disco,4.0,disco
+82,user6,"['classic', 'disco']",track32_classic,7.0,classic
+83,user6,"['classic', 'disco']",track36_disco,5.0,disco
+84,user6,"['classic', 'disco']",track37_disco,,disco
+85,user6,"['classic', 'disco']",track36_disco,5.0,disco
+86,user6,"['classic', 'disco']",track39_disco,5.0,disco
+87,user6,"['classic', 'disco']",track30_disco,3.0,disco
+88,user6,"['classic', 'disco']",track36_disco,5.0,disco
+89,user6,"['classic', 'disco']",track18_classic,7.0,classic
+90,user6,"['classic', 'disco']",track36_classic,,classic
+91,user6,"['classic', 'disco']",track2_classic,3.0,classic
+92,user6,"['classic', 'disco']",track30_disco,3.0,disco
+93,user6,"['classic', 'disco']",track13_disco,3.0,disco
+94,user6,"['classic', 'disco']",track16_disco,,disco
+95,user6,"['classic', 'disco']",track23_classic,,classic
+96,user6,"['classic', 'disco']",track5_classic,,classic
+97,user6,"['classic', 'disco']",track16_classic,5.0,classic
+98,user6,"['classic', 'disco']",track28_classic,7.0,classic
+99,user6,"['classic', 'disco']",track49_classic,7.0,classic
+100,user7,"['funk', 'rock', 'rap']",track49_rock,7.0,rock
+101,user7,"['funk', 'rock', 'rap']",track42_rap,,rap
+102,user7,"['funk', 'rock', 'rap']",track0_rap,9.0,rap
+103,user7,"['funk', 'rock', 'rap']",track24_rock,7.0,rock
+104,user7,"['funk', 'rock', 'rap']",track41_funk,3.0,funk
+105,user7,"['funk', 'rock', 'rap']",track21_rock,3.0,rock
+106,user7,"['funk', 'rock', 'rap']",track44_rock,7.0,rock
+107,user7,"['funk', 'rock', 'rap']",track22_rap,7.0,rap
+108,user7,"['funk', 'rock', 'rap']",track20_rap,,rap
+109,user7,"['funk', 'rock', 'rap']",track4_rock,4.0,rock
+110,user7,"['funk', 'rock', 'rap']",track15_rap,7.0,rap
+111,user7,"['funk', 'rock', 'rap']",track0_rock,5.0,rock
+112,user7,"['funk', 'rock', 'rap']",track7_funk,9.0,funk
+113,user7,"['funk', 'rock', 'rap']",track29_rock,7.0,rock
+114,user7,"['funk', 'rock', 'rap']",track16_rap,9.0,rap
+115,user7,"['funk', 'rock', 'rap']",track38_rap,4.0,rap
+116,user7,"['funk', 'rock', 'rap']",track12_rap,4.0,rap
+117,user7,"['funk', 'rock', 'rap']",track16_rock,4.0,rock
+118,user7,"['funk', 'rock', 'rap']",track40_rap,7.0,rap
+119,user7,"['funk', 'rock', 'rap']",track37_rock,3.0,rock
+120,user7,"['funk', 'rock', 'rap']",track37_funk,5.0,funk
+121,user7,"['funk', 'rock', 'rap']",track14_funk,7.0,funk
+122,user7,"['funk', 'rock', 'rap']",track5_rock,,rock
+123,user7,"['funk', 'rock', 'rap']",track15_funk,,funk
+124,user7,"['funk', 'rock', 'rap']",track12_rap,4.0,rap
+125,user7,"['funk', 'rock', 'rap']",track32_rap,3.0,rap
+126,user7,"['funk', 'rock', 'rap']",track8_rock,3.0,rock
+127,user7,"['funk', 'rock', 'rap']",track6_funk,,funk
+128,user7,"['funk', 'rock', 'rap']",track31_rap,9.0,rap
+129,user7,"['funk', 'rock', 'rap']",track45_rock,7.0,rock
+130,user7,"['funk', 'rock', 'rap']",track23_rock,4.0,rock
+131,user7,"['funk', 'rock', 'rap']",track14_rock,3.0,rock
+132,user7,"['funk', 'rock', 'rap']",track26_rock,3.0,rock
+133,user7,"['funk', 'rock', 'rap']",track44_rock,7.0,rock
+134,user7,"['funk', 'rock', 'rap']",track35_rap,3.0,rap
+135,user7,"['funk', 'rock', 'rap']",track29_rock,7.0,rock
+136,user7,"['funk', 'rock', 'rap']",track48_rock,9.0,rock
+137,user7,"['funk', 'rock', 'rap']",track14_funk,7.0,funk
+138,user7,"['funk', 'rock', 'rap']",track38_rap,4.0,rap
+139,user7,"['funk', 'rock', 'rap']",track14_rock,3.0,rock
+140,user7,"['funk', 'rock', 'rap']",track24_rap,9.0,rap
+141,user7,"['funk', 'rock', 'rap']",track11_rap,9.0,rap
+142,user7,"['funk', 'rock', 'rap']",track12_rock,5.0,rock
+143,user7,"['funk', 'rock', 'rap']",track44_rap,,rap
+144,user7,"['funk', 'rock', 'rap']",track14_rap,7.0,rap
+145,user7,"['funk', 'rock', 'rap']",track41_funk,3.0,funk
+146,user7,"['funk', 'rock', 'rap']",track9_rap,3.0,rap
+147,user7,"['funk', 'rock', 'rap']",track33_rap,5.0,rap
+148,user7,"['funk', 'rock', 'rap']",track12_funk,7.0,funk
+149,user7,"['funk', 'rock', 'rap']",track18_rap,5.0,rap
+150,user0,"['disco', 'funk', 'classic']",track16_funk,9.0,funk
+151,user0,"['disco', 'funk', 'classic']",track29_disco,4.0,disco
+152,user0,"['disco', 'funk', 'classic']",track46_classic,4.0,classic
+153,user0,"['disco', 'funk', 'classic']",track32_classic,9.0,classic
+154,user0,"['disco', 'funk', 'classic']",track46_disco,9.0,disco
+155,user0,"['disco', 'funk', 'classic']",track27_classic,5.0,classic
+156,user0,"['disco', 'funk', 'classic']",track33_classic,3.0,classic
+157,user0,"['disco', 'funk', 'classic']",track40_classic,5.0,classic
+158,user0,"['disco', 'funk', 'classic']",track37_disco,5.0,disco
+159,user0,"['disco', 'funk', 'classic']",track10_classic,3.0,classic
+160,user0,"['disco', 'funk', 'classic']",track3_funk,,funk
+161,user0,"['disco', 'funk', 'classic']",track4_funk,9.0,funk
+162,user0,"['disco', 'funk', 'classic']",track44_disco,9.0,disco
+163,user0,"['disco', 'funk', 'classic']",track43_disco,,disco
+164,user0,"['disco', 'funk', 'classic']",track23_funk,3.0,funk
+165,user0,"['disco', 'funk', 'classic']",track14_classic,3.0,classic
+166,user0,"['disco', 'funk', 'classic']",track37_disco,5.0,disco
+167,user0,"['disco', 'funk', 'classic']",track43_funk,3.0,funk
+168,user0,"['disco', 'funk', 'classic']",track47_funk,7.0,funk
+169,user0,"['disco', 'funk', 'classic']",track33_disco,7.0,disco
+170,user0,"['disco', 'funk', 'classic']",track4_disco,7.0,disco
+171,user0,"['disco', 'funk', 'classic']",track10_disco,4.0,disco
+172,user0,"['disco', 'funk', 'classic']",track4_funk,9.0,funk
+173,user0,"['disco', 'funk', 'classic']",track40_funk,5.0,funk
+174,user0,"['disco', 'funk', 'classic']",track35_classic,3.0,classic
+175,user0,"['disco', 'funk', 'classic']",track42_classic,9.0,classic
+176,user0,"['disco', 'funk', 'classic']",track23_disco,,disco
+177,user0,"['disco', 'funk', 'classic']",track15_funk,9.0,funk
+178,user0,"['disco', 'funk', 'classic']",track14_funk,7.0,funk
+179,user0,"['disco', 'funk', 'classic']",track27_disco,3.0,disco
+180,user0,"['disco', 'funk', 'classic']",track22_disco,7.0,disco
+181,user0,"['disco', 'funk', 'classic']",track1_disco,7.0,disco
+182,user0,"['disco', 'funk', 'classic']",track47_funk,7.0,funk
+183,user0,"['disco', 'funk', 'classic']",track17_classic,,classic
+184,user0,"['disco', 'funk', 'classic']",track45_classic,4.0,classic
+185,user0,"['disco', 'funk', 'classic']",track24_classic,3.0,classic
+186,user0,"['disco', 'funk', 'classic']",track44_funk,3.0,funk
+187,user0,"['disco', 'funk', 'classic']",track48_disco,,disco
+188,user0,"['disco', 'funk', 'classic']",track24_funk,,funk
+189,user0,"['disco', 'funk', 'classic']",track2_classic,4.0,classic
+190,user0,"['disco', 'funk', 'classic']",track41_disco,7.0,disco
+191,user0,"['disco', 'funk', 'classic']",track18_funk,4.0,funk
+192,user0,"['disco', 'funk', 'classic']",track4_classic,7.0,classic
+193,user0,"['disco', 'funk', 'classic']",track13_funk,4.0,funk
+194,user0,"['disco', 'funk', 'classic']",track36_classic,9.0,classic
+195,user0,"['disco', 'funk', 'classic']",track34_disco,7.0,disco
+196,user0,"['disco', 'funk', 'classic']",track38_funk,7.0,funk
+197,user0,"['disco', 'funk', 'classic']",track35_classic,3.0,classic
+198,user0,"['disco', 'funk', 'classic']",track33_disco,7.0,disco
+199,user0,"['disco', 'funk', 'classic']",track40_funk,5.0,funk
+200,user5,"['classic', 'funk']",track26_classic,9.0,classic
+201,user5,"['classic', 'funk']",track0_classic,3.0,classic
+202,user5,"['classic', 'funk']",track14_classic,9.0,classic
+203,user5,"['classic', 'funk']",track31_funk,4.0,funk
+204,user5,"['classic', 'funk']",track1_classic,,classic
+205,user5,"['classic', 'funk']",track38_funk,,funk
+206,user5,"['classic', 'funk']",track14_classic,9.0,classic
+207,user5,"['classic', 'funk']",track32_funk,7.0,funk
+208,user5,"['classic', 'funk']",track46_funk,4.0,funk
+209,user5,"['classic', 'funk']",track40_funk,3.0,funk
+210,user5,"['classic', 'funk']",track32_classic,5.0,classic
+211,user5,"['classic', 'funk']",track30_classic,4.0,classic
+212,user5,"['classic', 'funk']",track45_classic,9.0,classic
+213,user5,"['classic', 'funk']",track3_funk,4.0,funk
+214,user5,"['classic', 'funk']",track48_classic,3.0,classic
+215,user5,"['classic', 'funk']",track28_funk,3.0,funk
+216,user5,"['classic', 'funk']",track7_classic,5.0,classic
+217,user5,"['classic', 'funk']",track41_funk,5.0,funk
+218,user5,"['classic', 'funk']",track20_funk,4.0,funk
+219,user5,"['classic', 'funk']",track25_classic,4.0,classic
+220,user5,"['classic', 'funk']",track28_funk,3.0,funk
+221,user5,"['classic', 'funk']",track24_funk,7.0,funk
+222,user5,"['classic', 'funk']",track13_funk,3.0,funk
+223,user5,"['classic', 'funk']",track45_funk,9.0,funk
+224,user5,"['classic', 'funk']",track30_classic,4.0,classic
+225,user5,"['classic', 'funk']",track23_funk,5.0,funk
+226,user5,"['classic', 'funk']",track41_funk,5.0,funk
+227,user5,"['classic', 'funk']",track6_funk,3.0,funk
+228,user5,"['classic', 'funk']",track8_classic,5.0,classic
+229,user5,"['classic', 'funk']",track6_classic,3.0,classic
+230,user5,"['classic', 'funk']",track44_funk,3.0,funk
+231,user5,"['classic', 'funk']",track1_classic,,classic
+232,user5,"['classic', 'funk']",track23_funk,5.0,funk
+233,user5,"['classic', 'funk']",track47_funk,3.0,funk
+234,user5,"['classic', 'funk']",track44_funk,3.0,funk
+235,user5,"['classic', 'funk']",track10_funk,9.0,funk
+236,user5,"['classic', 'funk']",track17_classic,5.0,classic
+237,user5,"['classic', 'funk']",track35_classic,3.0,classic
+238,user5,"['classic', 'funk']",track26_funk,,funk
+239,user5,"['classic', 'funk']",track45_classic,9.0,classic
+240,user5,"['classic', 'funk']",track49_classic,,classic
+241,user5,"['classic', 'funk']",track25_classic,4.0,classic
+242,user5,"['classic', 'funk']",track20_classic,3.0,classic
+243,user5,"['classic', 'funk']",track26_funk,,funk
+244,user5,"['classic', 'funk']",track1_funk,3.0,funk
+245,user5,"['classic', 'funk']",track38_classic,9.0,classic
+246,user5,"['classic', 'funk']",track39_funk,3.0,funk
+247,user5,"['classic', 'funk']",track25_funk,3.0,funk
+248,user5,"['classic', 'funk']",track4_funk,3.0,funk
+249,user5,"['classic', 'funk']",track27_classic,3.0,classic
+250,user7,['rock'],track49_rock,7.0,rock
+251,user7,['rock'],track18_rock,5.0,rock
+252,user7,['rock'],track9_rock,7.0,rock
+253,user7,['rock'],track31_rock,9.0,rock
+254,user7,['rock'],track18_rock,5.0,rock
+255,user7,['rock'],track40_rock,3.0,rock
+256,user7,['rock'],track36_rock,,rock
+257,user7,['rock'],track49_rock,7.0,rock
+258,user7,['rock'],track5_rock,,rock
+259,user7,['rock'],track2_rock,3.0,rock
+260,user7,['rock'],track5_rock,,rock
+261,user7,['rock'],track13_rock,3.0,rock
+262,user7,['rock'],track37_rock,3.0,rock
+263,user7,['rock'],track8_rock,3.0,rock
+264,user7,['rock'],track41_rock,5.0,rock
+265,user7,['rock'],track16_rock,4.0,rock
+266,user7,['rock'],track25_rock,,rock
+267,user7,['rock'],track35_rock,3.0,rock
+268,user7,['rock'],track45_rock,7.0,rock
+269,user7,['rock'],track9_rock,7.0,rock
+270,user7,['rock'],track37_rock,3.0,rock
+271,user7,['rock'],track24_rock,7.0,rock
+272,user7,['rock'],track19_rock,4.0,rock
+273,user7,['rock'],track25_rock,,rock
+274,user7,['rock'],track21_rock,3.0,rock
+275,user7,['rock'],track37_rock,3.0,rock
+276,user7,['rock'],track16_rock,4.0,rock
+277,user7,['rock'],track30_rock,4.0,rock
+278,user7,['rock'],track43_rock,3.0,rock
+279,user7,['rock'],track9_rock,7.0,rock
+280,user7,['rock'],track17_rock,9.0,rock
+281,user7,['rock'],track44_rock,7.0,rock
+282,user7,['rock'],track28_rock,9.0,rock
+283,user7,['rock'],track7_rock,3.0,rock
+284,user7,['rock'],track23_rock,4.0,rock
+285,user7,['rock'],track3_rock,5.0,rock
+286,user7,['rock'],track9_rock,7.0,rock
+287,user7,['rock'],track30_rock,4.0,rock
+288,user7,['rock'],track43_rock,3.0,rock
+289,user7,['rock'],track12_rock,5.0,rock
+290,user7,['rock'],track17_rock,9.0,rock
+291,user7,['rock'],track39_rock,5.0,rock
+292,user7,['rock'],track16_rock,4.0,rock
+293,user7,['rock'],track46_rock,9.0,rock
+294,user7,['rock'],track0_rock,5.0,rock
+295,user7,['rock'],track25_rock,,rock
+296,user7,['rock'],track49_rock,7.0,rock
+297,user7,['rock'],track36_rock,,rock
+298,user7,['rock'],track46_rock,9.0,rock
+299,user7,['rock'],track44_rock,7.0,rock
+300,user3,"['rock', 'pop']",track29_pop,4.0,pop
+301,user3,"['rock', 'pop']",track4_rock,7.0,rock
+302,user3,"['rock', 'pop']",track29_pop,4.0,pop
+303,user3,"['rock', 'pop']",track33_rock,7.0,rock
+304,user3,"['rock', 'pop']",track22_pop,4.0,pop
+305,user3,"['rock', 'pop']",track13_pop,5.0,pop
+306,user3,"['rock', 'pop']",track28_pop,3.0,pop
+307,user3,"['rock', 'pop']",track36_pop,4.0,pop
+308,user3,"['rock', 'pop']",track22_pop,4.0,pop
+309,user3,"['rock', 'pop']",track34_pop,7.0,pop
+310,user3,"['rock', 'pop']",track13_pop,5.0,pop
+311,user3,"['rock', 'pop']",track37_pop,,pop
+312,user3,"['rock', 'pop']",track26_rock,3.0,rock
+313,user3,"['rock', 'pop']",track14_pop,4.0,pop
+314,user3,"['rock', 'pop']",track48_rock,,rock
+315,user3,"['rock', 'pop']",track6_pop,3.0,pop
+316,user3,"['rock', 'pop']",track32_pop,9.0,pop
+317,user3,"['rock', 'pop']",track27_pop,5.0,pop
+318,user3,"['rock', 'pop']",track16_rock,,rock
+319,user3,"['rock', 'pop']",track49_rock,7.0,rock
+320,user3,"['rock', 'pop']",track40_rock,4.0,rock
+321,user3,"['rock', 'pop']",track14_pop,4.0,pop
+322,user3,"['rock', 'pop']",track45_pop,5.0,pop
+323,user3,"['rock', 'pop']",track6_rock,5.0,rock
+324,user3,"['rock', 'pop']",track46_pop,,pop
+325,user3,"['rock', 'pop']",track26_pop,5.0,pop
+326,user3,"['rock', 'pop']",track9_pop,9.0,pop
+327,user3,"['rock', 'pop']",track6_rock,5.0,rock
+328,user3,"['rock', 'pop']",track26_rock,3.0,rock
+329,user3,"['rock', 'pop']",track19_rock,7.0,rock
+330,user3,"['rock', 'pop']",track32_pop,9.0,pop
+331,user3,"['rock', 'pop']",track29_rock,4.0,rock
+332,user3,"['rock', 'pop']",track34_pop,7.0,pop
+333,user3,"['rock', 'pop']",track39_pop,,pop
+334,user3,"['rock', 'pop']",track35_rock,4.0,rock
+335,user3,"['rock', 'pop']",track29_rock,4.0,rock
+336,user3,"['rock', 'pop']",track25_rock,5.0,rock
+337,user3,"['rock', 'pop']",track9_rock,9.0,rock
+338,user3,"['rock', 'pop']",track13_rock,9.0,rock
+339,user3,"['rock', 'pop']",track19_rock,7.0,rock
+340,user3,"['rock', 'pop']",track24_pop,3.0,pop
+341,user3,"['rock', 'pop']",track42_pop,7.0,pop
+342,user3,"['rock', 'pop']",track26_rock,3.0,rock
+343,user3,"['rock', 'pop']",track6_rock,5.0,rock
+344,user3,"['rock', 'pop']",track43_pop,9.0,pop
+345,user3,"['rock', 'pop']",track13_pop,5.0,pop
+346,user3,"['rock', 'pop']",track29_pop,4.0,pop
+347,user3,"['rock', 'pop']",track23_pop,9.0,pop
+348,user3,"['rock', 'pop']",track46_pop,,pop
+349,user3,"['rock', 'pop']",track33_pop,4.0,pop
+350,user0,['jazz'],track49_jazz,5.0,jazz
+351,user0,['jazz'],track49_jazz,5.0,jazz
+352,user0,['jazz'],track21_jazz,9.0,jazz
+353,user0,['jazz'],track44_jazz,9.0,jazz
+354,user0,['jazz'],track6_jazz,7.0,jazz
+355,user0,['jazz'],track21_jazz,9.0,jazz
+356,user0,['jazz'],track34_jazz,7.0,jazz
+357,user0,['jazz'],track12_jazz,4.0,jazz
+358,user0,['jazz'],track17_jazz,4.0,jazz
+359,user0,['jazz'],track31_jazz,5.0,jazz
+360,user0,['jazz'],track25_jazz,,jazz
+361,user0,['jazz'],track22_jazz,3.0,jazz
+362,user0,['jazz'],track26_jazz,5.0,jazz
+363,user0,['jazz'],track34_jazz,7.0,jazz
+364,user0,['jazz'],track3_jazz,7.0,jazz
+365,user0,['jazz'],track3_jazz,7.0,jazz
+366,user0,['jazz'],track49_jazz,5.0,jazz
+367,user0,['jazz'],track25_jazz,,jazz
+368,user0,['jazz'],track1_jazz,,jazz
+369,user0,['jazz'],track11_jazz,5.0,jazz
+370,user0,['jazz'],track37_jazz,,jazz
+371,user0,['jazz'],track26_jazz,5.0,jazz
+372,user0,['jazz'],track27_jazz,,jazz
+373,user0,['jazz'],track46_jazz,7.0,jazz
+374,user0,['jazz'],track18_jazz,7.0,jazz
+375,user0,['jazz'],track40_jazz,9.0,jazz
+376,user0,['jazz'],track27_jazz,,jazz
+377,user0,['jazz'],track35_jazz,5.0,jazz
+378,user0,['jazz'],track31_jazz,5.0,jazz
+379,user0,['jazz'],track2_jazz,9.0,jazz
+380,user0,['jazz'],track3_jazz,7.0,jazz
+381,user0,['jazz'],track28_jazz,4.0,jazz
+382,user0,['jazz'],track13_jazz,4.0,jazz
+383,user0,['jazz'],track1_jazz,,jazz
+384,user0,['jazz'],track2_jazz,9.0,jazz
+385,user0,['jazz'],track31_jazz,5.0,jazz
+386,user0,['jazz'],track0_jazz,4.0,jazz
+387,user0,['jazz'],track1_jazz,,jazz
+388,user0,['jazz'],track13_jazz,4.0,jazz
+389,user0,['jazz'],track29_jazz,,jazz
+390,user0,['jazz'],track1_jazz,,jazz
+391,user0,['jazz'],track33_jazz,9.0,jazz
+392,user0,['jazz'],track41_jazz,4.0,jazz
+393,user0,['jazz'],track47_jazz,,jazz
+394,user0,['jazz'],track2_jazz,9.0,jazz
+395,user0,['jazz'],track9_jazz,,jazz
+396,user0,['jazz'],track38_jazz,4.0,jazz
+397,user0,['jazz'],track12_jazz,4.0,jazz
+398,user0,['jazz'],track15_jazz,5.0,jazz
+399,user0,['jazz'],track49_jazz,5.0,jazz
+400,user0,"['pop', 'classic']",track45_pop,5.0,pop
+401,user0,"['pop', 'classic']",track8_pop,7.0,pop
+402,user0,"['pop', 'classic']",track23_classic,4.0,classic
+403,user0,"['pop', 'classic']",track0_pop,,pop
+404,user0,"['pop', 'classic']",track23_pop,5.0,pop
+405,user0,"['pop', 'classic']",track3_pop,,pop
+406,user0,"['pop', 'classic']",track12_classic,4.0,classic
+407,user0,"['pop', 'classic']",track33_classic,3.0,classic
+408,user0,"['pop', 'classic']",track45_pop,5.0,pop
+409,user0,"['pop', 'classic']",track4_classic,7.0,classic
+410,user0,"['pop', 'classic']",track30_pop,4.0,pop
+411,user0,"['pop', 'classic']",track6_pop,,pop
+412,user0,"['pop', 'classic']",track40_classic,5.0,classic
+413,user0,"['pop', 'classic']",track20_pop,7.0,pop
+414,user0,"['pop', 'classic']",track1_pop,3.0,pop
+415,user0,"['pop', 'classic']",track12_pop,4.0,pop
+416,user0,"['pop', 'classic']",track12_classic,4.0,classic
+417,user0,"['pop', 'classic']",track29_pop,4.0,pop
+418,user0,"['pop', 'classic']",track44_pop,5.0,pop
+419,user0,"['pop', 'classic']",track25_classic,7.0,classic
+420,user0,"['pop', 'classic']",track4_pop,5.0,pop
+421,user0,"['pop', 'classic']",track15_pop,9.0,pop
+422,user0,"['pop', 'classic']",track13_classic,,classic
+423,user0,"['pop', 'classic']",track11_pop,7.0,pop
+424,user0,"['pop', 'classic']",track34_pop,7.0,pop
+425,user0,"['pop', 'classic']",track0_classic,9.0,classic
+426,user0,"['pop', 'classic']",track38_classic,7.0,classic
+427,user0,"['pop', 'classic']",track37_pop,7.0,pop
+428,user0,"['pop', 'classic']",track30_pop,4.0,pop
+429,user0,"['pop', 'classic']",track39_classic,,classic
+430,user0,"['pop', 'classic']",track15_classic,5.0,classic
+431,user0,"['pop', 'classic']",track31_pop,5.0,pop
+432,user0,"['pop', 'classic']",track30_pop,4.0,pop
+433,user0,"['pop', 'classic']",track30_classic,9.0,classic
+434,user0,"['pop', 'classic']",track35_classic,3.0,classic
+435,user0,"['pop', 'classic']",track25_pop,5.0,pop
+436,user0,"['pop', 'classic']",track4_pop,5.0,pop
+437,user0,"['pop', 'classic']",track30_classic,9.0,classic
+438,user0,"['pop', 'classic']",track23_classic,4.0,classic
+439,user0,"['pop', 'classic']",track11_classic,7.0,classic
+440,user0,"['pop', 'classic']",track48_pop,5.0,pop
+441,user0,"['pop', 'classic']",track32_pop,7.0,pop
+442,user0,"['pop', 'classic']",track13_pop,9.0,pop
+443,user0,"['pop', 'classic']",track16_pop,9.0,pop
+444,user0,"['pop', 'classic']",track9_classic,7.0,classic
+445,user0,"['pop', 'classic']",track46_classic,4.0,classic
+446,user0,"['pop', 'classic']",track7_classic,7.0,classic
+447,user0,"['pop', 'classic']",track37_pop,7.0,pop
+448,user0,"['pop', 'classic']",track8_classic,4.0,classic
+449,user0,"['pop', 'classic']",track12_pop,4.0,pop
+450,user9,"['classic', 'pop', 'funk']",track34_pop,7.0,pop
+451,user9,"['classic', 'pop', 'funk']",track10_pop,7.0,pop
+452,user9,"['classic', 'pop', 'funk']",track46_funk,9.0,funk
+453,user9,"['classic', 'pop', 'funk']",track4_classic,7.0,classic
+454,user9,"['classic', 'pop', 'funk']",track27_pop,5.0,pop
+455,user9,"['classic', 'pop', 'funk']",track17_funk,9.0,funk
+456,user9,"['classic', 'pop', 'funk']",track23_pop,7.0,pop
+457,user9,"['classic', 'pop', 'funk']",track22_funk,,funk
+458,user9,"['classic', 'pop', 'funk']",track45_classic,,classic
+459,user9,"['classic', 'pop', 'funk']",track47_funk,5.0,funk
+460,user9,"['classic', 'pop', 'funk']",track12_pop,7.0,pop
+461,user9,"['classic', 'pop', 'funk']",track8_classic,5.0,classic
+462,user9,"['classic', 'pop', 'funk']",track25_classic,,classic
+463,user9,"['classic', 'pop', 'funk']",track43_funk,,funk
+464,user9,"['classic', 'pop', 'funk']",track11_funk,5.0,funk
+465,user9,"['classic', 'pop', 'funk']",track7_pop,4.0,pop
+466,user9,"['classic', 'pop', 'funk']",track0_funk,5.0,funk
+467,user9,"['classic', 'pop', 'funk']",track1_funk,3.0,funk
+468,user9,"['classic', 'pop', 'funk']",track2_funk,5.0,funk
+469,user9,"['classic', 'pop', 'funk']",track44_classic,3.0,classic
+470,user9,"['classic', 'pop', 'funk']",track29_pop,9.0,pop
+471,user9,"['classic', 'pop', 'funk']",track7_classic,5.0,classic
+472,user9,"['classic', 'pop', 'funk']",track2_classic,7.0,classic
+473,user9,"['classic', 'pop', 'funk']",track44_classic,3.0,classic
+474,user9,"['classic', 'pop', 'funk']",track18_classic,9.0,classic
+475,user9,"['classic', 'pop', 'funk']",track35_pop,5.0,pop
+476,user9,"['classic', 'pop', 'funk']",track28_funk,4.0,funk
+477,user9,"['classic', 'pop', 'funk']",track4_funk,4.0,funk
+478,user9,"['classic', 'pop', 'funk']",track44_pop,4.0,pop
+479,user9,"['classic', 'pop', 'funk']",track19_classic,5.0,classic
+480,user9,"['classic', 'pop', 'funk']",track48_pop,7.0,pop
+481,user9,"['classic', 'pop', 'funk']",track36_classic,3.0,classic
+482,user9,"['classic', 'pop', 'funk']",track24_funk,3.0,funk
+483,user9,"['classic', 'pop', 'funk']",track44_classic,3.0,classic
+484,user9,"['classic', 'pop', 'funk']",track48_classic,,classic
+485,user9,"['classic', 'pop', 'funk']",track45_funk,,funk
+486,user9,"['classic', 'pop', 'funk']",track4_classic,7.0,classic
+487,user9,"['classic', 'pop', 'funk']",track42_pop,5.0,pop
+488,user9,"['classic', 'pop', 'funk']",track15_pop,4.0,pop
+489,user9,"['classic', 'pop', 'funk']",track25_classic,,classic
+490,user9,"['classic', 'pop', 'funk']",track35_classic,3.0,classic
+491,user9,"['classic', 'pop', 'funk']",track38_classic,7.0,classic
+492,user9,"['classic', 'pop', 'funk']",track18_funk,7.0,funk
+493,user9,"['classic', 'pop', 'funk']",track29_pop,9.0,pop
+494,user9,"['classic', 'pop', 'funk']",track0_pop,4.0,pop
+495,user9,"['classic', 'pop', 'funk']",track1_classic,9.0,classic
+496,user9,"['classic', 'pop', 'funk']",track24_funk,3.0,funk
+497,user9,"['classic', 'pop', 'funk']",track2_pop,7.0,pop
+498,user9,"['classic', 'pop', 'funk']",track7_classic,5.0,classic
+499,user9,"['classic', 'pop', 'funk']",track46_funk,9.0,funk

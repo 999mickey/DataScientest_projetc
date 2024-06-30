@@ -12,7 +12,13 @@ outcsv_path = '../Data/CsvResults/'
 input_path = '../Data/'
 file_name = 'user_and_track_sentiment.csv'
 file_name = 'spotify_user_track_reduced10.01.csv'
+#file_name = "simulation.csv"
 #file_name = "simulation5-10.csv"
+file_name = "simulation3-5.csv"
+file_name = "simulationcurrent.csv"
+#file_name = "ratings_flrd.csv"
+#file_name = "merge.csv"
+
 myfilter = mic_collaborativ_filtering()
 input_variables_setter(file_name,myfilter)
 myfilter.set_data(input_path+file_name)
@@ -77,81 +83,80 @@ myfilter.set_user_key_name('user_id')
 myfilter.set_item_key_name('track_id')
 ############################################"""
 
-#myfilter.data_frame.info()
-
-#myfilter.data_frame.reset_index()
-
-#print("before sample shape = ",myfilter.data_frame.shape)
-#myfilter.data_frame = myfilter.data_frame.sample(frac=0.01,random_state=666) ##gros problème d'occupation mémoire
-#print("before after shape = ",myfilter.data_frame.shape)
-###"""
-
-#myfilter.plot_most_popular_tracks()
-
-#myfilter.plot_best_noted_tracks()
-
-#myfilter.plot_most_voter_user()
-
-#myfilter.plot_repartion_target()
-#myfilter.data_frame.to_csv('currentDfDumpedResampled.csv')
-#myfilter.data_frame.to_csv('currentDfDumped.csv')
-
 userIds = myfilter.get_best_voter_users(10)
 
-
 print("Le user le plus actif est : ")
+
 print(userIds[myfilter.user_key_name].iloc[0])
 
 userId = userIds[myfilter.user_key_name].iloc[0]
+
+userId = myfilter.default_user
+#userId = 'user7'
+#userId = 'user1'
+#userId = '004d5e96c8a318aeb006af50f8cc949c'
 
 myfilter.generate_notation_mattrix()
 
 k_close_param = 3
 
-simlilar_users = myfilter.get_similar_users(k_close_param,userId)
-#on prend le plus proche
-print("************myfilter.get_similar_users() =>",simlilar_users)
-
-closestUserId = simlilar_users.index[0]
-closestUserId = userIds[myfilter.user_key_name].iloc[1]
-
 #myfilter.matrice_pivot.to_csv('CsvResults/'+file_name+"matrice_pivot.csv")
 number_of_line_todump = 10
 score_seuil = 0
-userId = myfilter.get_random_user_id()
 
-#userId = 'user0'
-user_preferences = myfilter.get_preferences(userId,score_seuil,100)
-print("longeur des preferences : ",len(user_preferences))
+#userId = myfilter.get_random_user_id()
+
+simlilar_users = myfilter.get_similar_users(k_close_param,userId)
+#on prend le plus proche
+#print("************myfilter.get_similar_users() =>",simlilar_users)
+print("Chosen user : ",userId)
+
+print(myfilter.get_user_description(userId))
+
+
+print("simlilar_users = \n",simlilar_users)
+
+
+print(myfilter.get_user_description(userId))
+user_preferences = myfilter.get_preferences(userId,score_seuil,5)
+#print("longeur des preferences : ",len(user_preferences))
 
 #top10 =user_preferences.sort_values(myfilter.target_key_name, ascending=False).head(10)
-top10 = user_preferences.sort_values(myfilter.target_key_name, ascending=False)
+top = user_preferences.sort_values(myfilter.target_key_name, ascending=False)
 
-print("10 Preferences user [",userId,"] : \n",top10)
+print("10 Preferences user [",userId,"] : \n",top)
 filename = str(userId)+"_10preference.csv"
 print("-----------------ganna save to ",outcsv_path+filename)
-top10.head(number_of_line_todump).to_csv(outcsv_path+filename)
-
+top.head(number_of_line_todump).to_csv(outcsv_path+filename)
 
 #on calcule ici une recommandation faite à partir des autres utilisateurs les plus proches 
 # dont le nombre est k_close_param
-reco_user = myfilter.pred_user(k_close_param,userId)
-print(" reco_user======================",reco_user)
+
+reco_user = myfilter.pred_user(k_close_param,userId,5)
+print("userId[",userId,"] reco_user======================",reco_user)
 filename = str(userId)+"_pred_user.csv"
 #reco_user.head(number_of_line_todump).to_csv(outcsv_path+filename)
 ret = myfilter.get_full_data(reco_user,myfilter.item_key_name)
 ret.head(number_of_line_todump).to_csv(outcsv_path+filename)
 
-
-reco_item = myfilter.pred_item( k_close_param,userId).sort_values(ascending=False).head(10)
-print(" reco_item======================",reco_item)
+reco_item = myfilter.pred_item( k_close_param,userId,5).sort_values(ascending=False).head(10)
+print("userId[",userId,"] reco_item======================",reco_item)
 filename = str(userId) + "_pred_item.csv"
 #reco_item.head(number_of_line_todump).to_csv('CsvResults/'+filename)
 ret = myfilter.get_full_data(reco_item,myfilter.item_key_name)
 ret.head(number_of_line_todump).to_csv(outcsv_path+filename)
 
 #################################################
+print("User proches :\n",simlilar_users)
 
+
+closestUserId = simlilar_users.index[0]
+print("closestUserId = \n",closestUserId)
+
+
+print(myfilter.get_user_description(closestUserId))
+
+print(myfilter.get_user_description(closestUserId))
 user_preferences = myfilter.get_preferences(closestUserId,score_seuil,100)
 top10 = user_preferences.sort_values(myfilter.target_key_name, ascending=False)
 print("10 Preferences closest user [",closestUserId,"] : \n",top10)
@@ -159,21 +164,20 @@ filename = str(closestUserId)+"_10preference.csv"
 top10.head(number_of_line_todump).to_csv(outcsv_path+filename)
 
 reco_user = myfilter.pred_user(k_close_param,closestUserId)
+print("userId[",closestUserId,"] reco_user======================",reco_user)
 filename = str(closestUserId) + "_pred_user.csv"
 reco_user.head(number_of_line_todump).to_csv(outcsv_path+filename)
 ret = myfilter.get_full_data(reco_user,myfilter.item_key_name)
 ret.head(number_of_line_todump).to_csv(outcsv_path+filename)
 
-
 reco_item = myfilter.pred_item( k_close_param,closestUserId).sort_values(ascending=False).head(10)
+print("userId[",closestUserId,"] reco_item======================",reco_item)
 filename = str(closestUserId) + "_pred_item.csv"
 reco_item.head(number_of_line_todump).to_csv(outcsv_path+filename)
 ret = myfilter.get_full_data(reco_item,myfilter.item_key_name)
 ret.head(number_of_line_todump).to_csv(outcsv_path+filename)
 
-
 #####################"""
-
 
 pref_1 = myfilter.matrice_pivot.loc[userId, :].values
 

@@ -13,19 +13,34 @@ beep(1)
 start = time.time()
 myFilter = mic_content_filtering()
 ###############################
-"""
+
 input_path = "../Data/"
 file_name = "data.csv"
 input_variables_setter(file_name,myFilter)
 myFilter.set_data(input_path + file_name)
 myFilter.normalize_data()
+myFilter.print_vars()
+#exit()
 song_name = "put a s"
-artist_name = "nina"
+artist_name = "nina sim"
+
+
+song_name = "give it"
+artist_name = "red hot"
+
+#artist_list = myFilter.get_artist_closedto(artist_name)
+
+#print(artist_list)
+#exit()
+
 ret = myFilter.get_tracks_with_name(song_name)
 print(myFilter.get_tracks_of_artist(artist_name))
+
 songnum = myFilter.get_track_num_of_artist(artist_name,song_name)
+print("song num = ",songnum)
+
 #####################"""
-input_path = "../Data/"
+"""input_path = "../Data/"
 file_name = "final_all.csv"
 myFilter.set_data(input_path + file_name)
 #definition des variables

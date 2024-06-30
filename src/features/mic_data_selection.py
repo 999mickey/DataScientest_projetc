@@ -3,6 +3,8 @@ import pandas as pd
 import numpy as np
 import random 
 from sklearn.metrics import euclidean_distances
+from pandas.api.types import is_string_dtype
+from pandas.api.types import is_numeric_dtype
 
 class mic_data_selection():
     def __init__(self):
@@ -21,11 +23,10 @@ class mic_data_selection():
         print("************************* set_data(",file_name,") **********************")
         self.file_name = file_name
         self.data_frame = pd.read_csv(file_name)
-        print(self.data_frame.shape)
-        self.data_frame.info()
-        print(self.data_frame.head(5))
+        #print(self.data_frame.shape)
+        #self.data_frame.info()
+        #print(self.data_frame.head(5))
     
-
     def reduce_data(self,frac):
         print("*********************reduce_data **************************** In")
         print("before self.data_frame.shape = ",self.data_frame.shape)
@@ -329,9 +330,18 @@ class mic_data_selection():
         df["sentiment"] = df[~df['user_id'].isin(counts[counts < min].index)]"""
         
 
-    def test(self, seuil):
+    def test(self):
+        print("test")
+        df = self.data_frame
+        name_list_to_keep = []
+        for val in df.columns:
+            print('check column ',val)
+            if is_numeric_dtype(df[val]) :
+                print(" colonne[",val,"] est numerique")
+                name_list_to_keep . append(val)
 
-        df = self.data_frame       
+            
+        """df = self.data_frame       
         print("before = ",df.shape)
         #df = df[df['user_id'] ==  	811851805]
         df = df[['user_id','track_id','sentiment','hashtag']+self.features].drop_duplicates()
@@ -437,7 +447,7 @@ class mic_data_selection():
         
         print("2   len(resultat) => ",len(resultat))
         print(resultat)
-
+        """
 
         
 

@@ -1,0 +1,2101 @@
+,genre,user_id,sentiment_score,track_id
+0,funk,user1,1.0,Super Freak : funk
+1,funk,user1,4.0,Play That Funky Music : funk
+2,funk,user1,2.0,Get Up (I Feel Like Being a) Sex Machine : funk
+3,funk,user1,5.0,Give Up the Funk : funk
+4,funk,user1,1.0,Pick Up the Pieces : funk
+5,funk,user1,,Brick House : funk
+6,funk,user1,7.0,Flash Light : funk
+7,funk,user1,7.0,Jungle Boogie : funk
+8,funk,user1,3.0,Papa Was a Rollin' Stone : funk
+9,funk,user1,1.0,Dance to the Music : funk
+10,funk,user1,,Shining Star : funk
+11,funk,user1,7.0,We Want the Funk : funk
+12,funk,user1,1.0,I Got You (I Feel Good) : funk
+13,funk,user1,8.0,Thank You (Falettinme Be Mice Elf Agin) : funk
+14,funk,user1,,Fire : funk
+15,funk,user1,3.0,Tell Me Something Good : funk
+16,funk,user1,3.0,Hollywood Swinging : funk
+17,funk,user1,6.0,Get Down on It : funk
+18,funk,user1,3.0,Ladies' Night : funk
+19,funk,user1,,September : funk
+20,funk,user1,,Boogie Wonderland : funk
+21,funk,user1,3.0,Let's Groove : funk
+22,funk,user1,7.0,Word Up! : funk
+23,funk,user1,3.0,Fantastic Voyage : funk
+24,funk,user1,2.0,Shake Your Groove Thing : funk
+25,funk,user1,6.0,She's a Bad Mama Jama : funk
+26,funk,user1,7.0,Let It Whip : funk
+27,funk,user1,1.0,Car Wash : funk
+28,funk,user1,6.0,Boogie Nights : funk
+29,funk,user1,3.0,Good Times : funk
+30,funk,user2,8.0,Super Freak : funk
+31,funk,user2,5.0,Play That Funky Music : funk
+32,funk,user2,3.0,Get Up (I Feel Like Being a) Sex Machine : funk
+33,funk,user2,2.0,Give Up the Funk : funk
+34,funk,user2,,Pick Up the Pieces : funk
+35,funk,user2,4.0,Brick House : funk
+36,funk,user2,6.0,Flash Light : funk
+37,funk,user2,1.0,Jungle Boogie : funk
+38,funk,user2,8.0,Papa Was a Rollin' Stone : funk
+39,funk,user2,5.0,Dance to the Music : funk
+40,funk,user2,3.0,Shining Star : funk
+41,funk,user2,2.0,We Want the Funk : funk
+42,funk,user2,10.0,I Got You (I Feel Good) : funk
+43,funk,user2,4.0,Thank You (Falettinme Be Mice Elf Agin) : funk
+44,funk,user2,,Fire : funk
+45,funk,user2,,Tell Me Something Good : funk
+46,funk,user2,1.0,Hollywood Swinging : funk
+47,funk,user2,,Get Down on It : funk
+48,funk,user2,5.0,Ladies' Night : funk
+49,funk,user2,1.0,September : funk
+50,funk,user2,4.0,Boogie Wonderland : funk
+51,funk,user2,4.0,Let's Groove : funk
+52,funk,user2,2.0,Word Up! : funk
+53,funk,user2,1.0,Fantastic Voyage : funk
+54,funk,user2,7.0,Shake Your Groove Thing : funk
+55,funk,user2,6.0,She's a Bad Mama Jama : funk
+56,funk,user2,,Let It Whip : funk
+57,funk,user2,10.0,Car Wash : funk
+58,funk,user2,10.0,Boogie Nights : funk
+59,funk,user2,3.0,Good Times : funk
+60,funk,user3,1.0,Super Freak : funk
+61,funk,user3,5.0,Play That Funky Music : funk
+62,funk,user3,5.0,Get Up (I Feel Like Being a) Sex Machine : funk
+63,funk,user3,,Give Up the Funk : funk
+64,funk,user3,1.0,Pick Up the Pieces : funk
+65,funk,user3,4.0,Brick House : funk
+66,funk,user3,9.0,Flash Light : funk
+67,funk,user3,,Jungle Boogie : funk
+68,funk,user3,7.0,Papa Was a Rollin' Stone : funk
+69,funk,user3,10.0,Dance to the Music : funk
+70,funk,user3,4.0,Shining Star : funk
+71,funk,user3,1.0,We Want the Funk : funk
+72,funk,user3,2.0,I Got You (I Feel Good) : funk
+73,funk,user3,5.0,Thank You (Falettinme Be Mice Elf Agin) : funk
+74,funk,user3,7.0,Fire : funk
+75,funk,user3,9.0,Tell Me Something Good : funk
+76,funk,user3,4.0,Hollywood Swinging : funk
+77,funk,user3,3.0,Get Down on It : funk
+78,funk,user3,,Ladies' Night : funk
+79,funk,user3,1.0,September : funk
+80,funk,user3,3.0,Boogie Wonderland : funk
+81,funk,user3,5.0,Let's Groove : funk
+82,funk,user3,7.0,Word Up! : funk
+83,funk,user3,7.0,Fantastic Voyage : funk
+84,funk,user3,7.0,Shake Your Groove Thing : funk
+85,funk,user3,8.0,She's a Bad Mama Jama : funk
+86,funk,user3,,Let It Whip : funk
+87,funk,user3,,Car Wash : funk
+88,funk,user3,9.0,Boogie Nights : funk
+89,funk,user3,4.0,Good Times : funk
+90,funk,user4,5.0,Super Freak : funk
+91,funk,user4,9.0,Play That Funky Music : funk
+92,funk,user4,9.0,Get Up (I Feel Like Being a) Sex Machine : funk
+93,funk,user4,3.0,Give Up the Funk : funk
+94,funk,user4,1.0,Pick Up the Pieces : funk
+95,funk,user4,4.0,Brick House : funk
+96,funk,user4,5.0,Flash Light : funk
+97,funk,user4,,Jungle Boogie : funk
+98,funk,user4,2.0,Papa Was a Rollin' Stone : funk
+99,funk,user4,4.0,Dance to the Music : funk
+100,funk,user4,8.0,Shining Star : funk
+101,funk,user4,9.0,We Want the Funk : funk
+102,funk,user4,8.0,I Got You (I Feel Good) : funk
+103,funk,user4,8.0,Thank You (Falettinme Be Mice Elf Agin) : funk
+104,funk,user4,1.0,Fire : funk
+105,funk,user4,10.0,Tell Me Something Good : funk
+106,funk,user4,3.0,Hollywood Swinging : funk
+107,funk,user4,7.0,Get Down on It : funk
+108,funk,user4,6.0,Ladies' Night : funk
+109,funk,user4,10.0,September : funk
+110,funk,user4,,Boogie Wonderland : funk
+111,funk,user4,10.0,Let's Groove : funk
+112,funk,user4,,Word Up! : funk
+113,funk,user4,4.0,Fantastic Voyage : funk
+114,funk,user4,4.0,Shake Your Groove Thing : funk
+115,funk,user4,10.0,She's a Bad Mama Jama : funk
+116,funk,user4,8.0,Let It Whip : funk
+117,funk,user4,,Car Wash : funk
+118,funk,user4,2.0,Boogie Nights : funk
+119,funk,user4,,Good Times : funk
+120,funk,user5,10.0,Super Freak : funk
+121,funk,user5,6.0,Play That Funky Music : funk
+122,funk,user5,,Get Up (I Feel Like Being a) Sex Machine : funk
+123,funk,user5,4.0,Give Up the Funk : funk
+124,funk,user5,9.0,Pick Up the Pieces : funk
+125,funk,user5,3.0,Brick House : funk
+126,funk,user5,2.0,Flash Light : funk
+127,funk,user5,4.0,Jungle Boogie : funk
+128,funk,user5,9.0,Papa Was a Rollin' Stone : funk
+129,funk,user5,9.0,Dance to the Music : funk
+130,funk,user5,3.0,Shining Star : funk
+131,funk,user5,,We Want the Funk : funk
+132,funk,user5,4.0,I Got You (I Feel Good) : funk
+133,funk,user5,1.0,Thank You (Falettinme Be Mice Elf Agin) : funk
+134,funk,user5,8.0,Fire : funk
+135,funk,user5,4.0,Tell Me Something Good : funk
+136,funk,user5,9.0,Hollywood Swinging : funk
+137,funk,user5,10.0,Get Down on It : funk
+138,funk,user5,10.0,Ladies' Night : funk
+139,funk,user5,1.0,September : funk
+140,funk,user5,4.0,Boogie Wonderland : funk
+141,funk,user5,,Let's Groove : funk
+142,funk,user5,,Word Up! : funk
+143,funk,user5,2.0,Fantastic Voyage : funk
+144,funk,user5,10.0,Shake Your Groove Thing : funk
+145,funk,user5,5.0,She's a Bad Mama Jama : funk
+146,funk,user5,,Let It Whip : funk
+147,funk,user5,9.0,Car Wash : funk
+148,funk,user5,1.0,Boogie Nights : funk
+149,funk,user5,1.0,Good Times : funk
+150,funk,user6,8.0,Super Freak : funk
+151,funk,user6,9.0,Play That Funky Music : funk
+152,funk,user6,5.0,Get Up (I Feel Like Being a) Sex Machine : funk
+153,funk,user6,,Give Up the Funk : funk
+154,funk,user6,10.0,Pick Up the Pieces : funk
+155,funk,user6,10.0,Brick House : funk
+156,funk,user6,10.0,Flash Light : funk
+157,funk,user6,3.0,Jungle Boogie : funk
+158,funk,user6,4.0,Papa Was a Rollin' Stone : funk
+159,funk,user6,,Dance to the Music : funk
+160,funk,user6,1.0,Shining Star : funk
+161,funk,user6,2.0,We Want the Funk : funk
+162,funk,user6,9.0,I Got You (I Feel Good) : funk
+163,funk,user6,4.0,Thank You (Falettinme Be Mice Elf Agin) : funk
+164,funk,user6,7.0,Fire : funk
+165,funk,user6,,Tell Me Something Good : funk
+166,funk,user6,4.0,Hollywood Swinging : funk
+167,funk,user6,,Get Down on It : funk
+168,funk,user6,10.0,Ladies' Night : funk
+169,funk,user6,9.0,September : funk
+170,funk,user6,7.0,Boogie Wonderland : funk
+171,funk,user6,,Let's Groove : funk
+172,funk,user6,8.0,Word Up! : funk
+173,funk,user6,3.0,Fantastic Voyage : funk
+174,funk,user6,8.0,Shake Your Groove Thing : funk
+175,funk,user6,10.0,She's a Bad Mama Jama : funk
+176,funk,user6,9.0,Let It Whip : funk
+177,funk,user6,8.0,Car Wash : funk
+178,funk,user6,2.0,Boogie Nights : funk
+179,funk,user6,5.0,Good Times : funk
+180,funk,user7,5.0,Super Freak : funk
+181,funk,user7,10.0,Play That Funky Music : funk
+182,funk,user7,2.0,Get Up (I Feel Like Being a) Sex Machine : funk
+183,funk,user7,4.0,Give Up the Funk : funk
+184,funk,user7,1.0,Pick Up the Pieces : funk
+185,funk,user7,8.0,Brick House : funk
+186,funk,user7,8.0,Flash Light : funk
+187,funk,user7,1.0,Jungle Boogie : funk
+188,funk,user7,,Papa Was a Rollin' Stone : funk
+189,funk,user7,,Dance to the Music : funk
+190,funk,user7,,Shining Star : funk
+191,funk,user7,6.0,We Want the Funk : funk
+192,funk,user7,9.0,I Got You (I Feel Good) : funk
+193,funk,user7,3.0,Thank You (Falettinme Be Mice Elf Agin) : funk
+194,funk,user7,7.0,Fire : funk
+195,funk,user7,5.0,Tell Me Something Good : funk
+196,funk,user7,3.0,Hollywood Swinging : funk
+197,funk,user7,8.0,Get Down on It : funk
+198,funk,user7,,Ladies' Night : funk
+199,funk,user7,4.0,September : funk
+200,funk,user7,9.0,Boogie Wonderland : funk
+201,funk,user7,10.0,Let's Groove : funk
+202,funk,user7,8.0,Word Up! : funk
+203,funk,user7,,Fantastic Voyage : funk
+204,funk,user7,6.0,Shake Your Groove Thing : funk
+205,funk,user7,3.0,She's a Bad Mama Jama : funk
+206,funk,user7,5.0,Let It Whip : funk
+207,funk,user7,5.0,Car Wash : funk
+208,funk,user7,10.0,Boogie Nights : funk
+209,funk,user7,5.0,Good Times : funk
+210,funk,user8,,Super Freak : funk
+211,funk,user8,6.0,Play That Funky Music : funk
+212,funk,user8,7.0,Get Up (I Feel Like Being a) Sex Machine : funk
+213,funk,user8,3.0,Give Up the Funk : funk
+214,funk,user8,,Pick Up the Pieces : funk
+215,funk,user8,8.0,Brick House : funk
+216,funk,user8,3.0,Flash Light : funk
+217,funk,user8,1.0,Jungle Boogie : funk
+218,funk,user8,,Papa Was a Rollin' Stone : funk
+219,funk,user8,1.0,Dance to the Music : funk
+220,funk,user8,5.0,Shining Star : funk
+221,funk,user8,4.0,We Want the Funk : funk
+222,funk,user8,6.0,I Got You (I Feel Good) : funk
+223,funk,user8,6.0,Thank You (Falettinme Be Mice Elf Agin) : funk
+224,funk,user8,8.0,Fire : funk
+225,funk,user8,9.0,Tell Me Something Good : funk
+226,funk,user8,6.0,Hollywood Swinging : funk
+227,funk,user8,9.0,Get Down on It : funk
+228,funk,user8,9.0,Ladies' Night : funk
+229,funk,user8,5.0,September : funk
+230,funk,user8,7.0,Boogie Wonderland : funk
+231,funk,user8,10.0,Let's Groove : funk
+232,funk,user8,,Word Up! : funk
+233,funk,user8,6.0,Fantastic Voyage : funk
+234,funk,user8,8.0,Shake Your Groove Thing : funk
+235,funk,user8,1.0,She's a Bad Mama Jama : funk
+236,funk,user8,10.0,Let It Whip : funk
+237,funk,user8,9.0,Car Wash : funk
+238,funk,user8,3.0,Boogie Nights : funk
+239,funk,user8,,Good Times : funk
+240,funk,user9,1.0,Super Freak : funk
+241,funk,user9,9.0,Play That Funky Music : funk
+242,funk,user9,7.0,Get Up (I Feel Like Being a) Sex Machine : funk
+243,funk,user9,,Give Up the Funk : funk
+244,funk,user9,9.0,Pick Up the Pieces : funk
+245,funk,user9,3.0,Brick House : funk
+246,funk,user9,,Flash Light : funk
+247,funk,user9,10.0,Jungle Boogie : funk
+248,funk,user9,4.0,Papa Was a Rollin' Stone : funk
+249,funk,user9,1.0,Dance to the Music : funk
+250,funk,user9,8.0,Shining Star : funk
+251,funk,user9,5.0,We Want the Funk : funk
+252,funk,user9,1.0,I Got You (I Feel Good) : funk
+253,funk,user9,,Thank You (Falettinme Be Mice Elf Agin) : funk
+254,funk,user9,4.0,Fire : funk
+255,funk,user9,9.0,Tell Me Something Good : funk
+256,funk,user9,,Hollywood Swinging : funk
+257,funk,user9,5.0,Get Down on It : funk
+258,funk,user9,1.0,Ladies' Night : funk
+259,funk,user9,,September : funk
+260,funk,user9,5.0,Boogie Wonderland : funk
+261,funk,user9,3.0,Let's Groove : funk
+262,funk,user9,7.0,Word Up! : funk
+263,funk,user9,6.0,Fantastic Voyage : funk
+264,funk,user9,10.0,Shake Your Groove Thing : funk
+265,funk,user9,4.0,She's a Bad Mama Jama : funk
+266,funk,user9,1.0,Let It Whip : funk
+267,funk,user9,1.0,Car Wash : funk
+268,funk,user9,1.0,Boogie Nights : funk
+269,funk,user9,10.0,Good Times : funk
+270,funk,user10,9.0,Super Freak : funk
+271,funk,user10,10.0,Play That Funky Music : funk
+272,funk,user10,1.0,Get Up (I Feel Like Being a) Sex Machine : funk
+273,funk,user10,5.0,Give Up the Funk : funk
+274,funk,user10,6.0,Pick Up the Pieces : funk
+275,funk,user10,1.0,Brick House : funk
+276,funk,user10,6.0,Flash Light : funk
+277,funk,user10,1.0,Jungle Boogie : funk
+278,funk,user10,,Papa Was a Rollin' Stone : funk
+279,funk,user10,8.0,Dance to the Music : funk
+280,funk,user10,10.0,Shining Star : funk
+281,funk,user10,9.0,We Want the Funk : funk
+282,funk,user10,,I Got You (I Feel Good) : funk
+283,funk,user10,9.0,Thank You (Falettinme Be Mice Elf Agin) : funk
+284,funk,user10,8.0,Fire : funk
+285,funk,user10,2.0,Tell Me Something Good : funk
+286,funk,user10,,Hollywood Swinging : funk
+287,funk,user10,,Get Down on It : funk
+288,funk,user10,8.0,Ladies' Night : funk
+289,funk,user10,3.0,September : funk
+290,funk,user10,8.0,Boogie Wonderland : funk
+291,funk,user10,3.0,Let's Groove : funk
+292,funk,user10,,Word Up! : funk
+293,funk,user10,10.0,Fantastic Voyage : funk
+294,funk,user10,2.0,Shake Your Groove Thing : funk
+295,funk,user10,6.0,She's a Bad Mama Jama : funk
+296,funk,user10,3.0,Let It Whip : funk
+297,funk,user10,8.0,Car Wash : funk
+298,funk,user10,4.0,Boogie Nights : funk
+299,funk,user10,9.0,Good Times : funk
+0,gypsy jazz,user1,4.0,Minor Swing : gypsy jazz
+1,gypsy jazz,user1,1.0,Nuages : gypsy jazz
+2,gypsy jazz,user1,6.0,Django's Tiger : gypsy jazz
+3,gypsy jazz,user1,,Swing 42 : gypsy jazz
+4,gypsy jazz,user1,,Douce Ambiance : gypsy jazz
+5,gypsy jazz,user1,,Tears : gypsy jazz
+6,gypsy jazz,user1,9.0,Belleville : gypsy jazz
+7,gypsy jazz,user1,2.0,Limehouse Blues : gypsy jazz
+8,gypsy jazz,user1,6.0,Night and Day : gypsy jazz
+9,gypsy jazz,user1,10.0,All of Me : gypsy jazz
+10,gypsy jazz,user1,7.0,Djangology : gypsy jazz
+11,gypsy jazz,user1,9.0,It Had to Be You : gypsy jazz
+12,gypsy jazz,user1,8.0,Honeysuckle Rose : gypsy jazz
+13,gypsy jazz,user1,9.0,Blues Clair : gypsy jazz
+14,gypsy jazz,user1,,J'attendrai : gypsy jazz
+15,gypsy jazz,user1,3.0,I'll See You in My Dreams : gypsy jazz
+16,gypsy jazz,user1,9.0,Stompin' at Decca : gypsy jazz
+17,gypsy jazz,user1,2.0,Swing Gitan : gypsy jazz
+18,gypsy jazz,user1,,Bossa Dorado : gypsy jazz
+19,gypsy jazz,user1,5.0,Coquette : gypsy jazz
+20,gypsy jazz,user1,9.0,Les Yeux Noirs : gypsy jazz
+21,gypsy jazz,user1,5.0,Sweet Georgia Brown : gypsy jazz
+22,gypsy jazz,user1,7.0,Viper's Dream : gypsy jazz
+23,gypsy jazz,user1,5.0,Swing 39 : gypsy jazz
+24,gypsy jazz,user1,10.0,Dinah : gypsy jazz
+25,gypsy jazz,user1,2.0,Manoir de Mes Rêves : gypsy jazz
+26,gypsy jazz,user1,7.0,For Sephora : gypsy jazz
+27,gypsy jazz,user1,9.0,Double Scotch : gypsy jazz
+28,gypsy jazz,user1,9.0,Swing de Paris : gypsy jazz
+29,gypsy jazz,user1,2.0,September Song : gypsy jazz
+30,gypsy jazz,user2,7.0,Minor Swing : gypsy jazz
+31,gypsy jazz,user2,8.0,Nuages : gypsy jazz
+32,gypsy jazz,user2,9.0,Django's Tiger : gypsy jazz
+33,gypsy jazz,user2,6.0,Swing 42 : gypsy jazz
+34,gypsy jazz,user2,,Douce Ambiance : gypsy jazz
+35,gypsy jazz,user2,4.0,Tears : gypsy jazz
+36,gypsy jazz,user2,8.0,Belleville : gypsy jazz
+37,gypsy jazz,user2,6.0,Limehouse Blues : gypsy jazz
+38,gypsy jazz,user2,,Night and Day : gypsy jazz
+39,gypsy jazz,user2,4.0,All of Me : gypsy jazz
+40,gypsy jazz,user2,3.0,Djangology : gypsy jazz
+41,gypsy jazz,user2,8.0,It Had to Be You : gypsy jazz
+42,gypsy jazz,user2,,Honeysuckle Rose : gypsy jazz
+43,gypsy jazz,user2,5.0,Blues Clair : gypsy jazz
+44,gypsy jazz,user2,10.0,J'attendrai : gypsy jazz
+45,gypsy jazz,user2,10.0,I'll See You in My Dreams : gypsy jazz
+46,gypsy jazz,user2,10.0,Stompin' at Decca : gypsy jazz
+47,gypsy jazz,user2,10.0,Swing Gitan : gypsy jazz
+48,gypsy jazz,user2,8.0,Bossa Dorado : gypsy jazz
+49,gypsy jazz,user2,3.0,Coquette : gypsy jazz
+50,gypsy jazz,user2,8.0,Les Yeux Noirs : gypsy jazz
+51,gypsy jazz,user2,10.0,Sweet Georgia Brown : gypsy jazz
+52,gypsy jazz,user2,5.0,Viper's Dream : gypsy jazz
+53,gypsy jazz,user2,,Swing 39 : gypsy jazz
+54,gypsy jazz,user2,,Dinah : gypsy jazz
+55,gypsy jazz,user2,10.0,Manoir de Mes Rêves : gypsy jazz
+56,gypsy jazz,user2,8.0,For Sephora : gypsy jazz
+57,gypsy jazz,user2,7.0,Double Scotch : gypsy jazz
+58,gypsy jazz,user2,3.0,Swing de Paris : gypsy jazz
+59,gypsy jazz,user2,8.0,September Song : gypsy jazz
+60,gypsy jazz,user3,3.0,Minor Swing : gypsy jazz
+61,gypsy jazz,user3,4.0,Nuages : gypsy jazz
+62,gypsy jazz,user3,10.0,Django's Tiger : gypsy jazz
+63,gypsy jazz,user3,7.0,Swing 42 : gypsy jazz
+64,gypsy jazz,user3,4.0,Douce Ambiance : gypsy jazz
+65,gypsy jazz,user3,7.0,Tears : gypsy jazz
+66,gypsy jazz,user3,2.0,Belleville : gypsy jazz
+67,gypsy jazz,user3,10.0,Limehouse Blues : gypsy jazz
+68,gypsy jazz,user3,2.0,Night and Day : gypsy jazz
+69,gypsy jazz,user3,8.0,All of Me : gypsy jazz
+70,gypsy jazz,user3,,Djangology : gypsy jazz
+71,gypsy jazz,user3,1.0,It Had to Be You : gypsy jazz
+72,gypsy jazz,user3,3.0,Honeysuckle Rose : gypsy jazz
+73,gypsy jazz,user3,2.0,Blues Clair : gypsy jazz
+74,gypsy jazz,user3,2.0,J'attendrai : gypsy jazz
+75,gypsy jazz,user3,,I'll See You in My Dreams : gypsy jazz
+76,gypsy jazz,user3,3.0,Stompin' at Decca : gypsy jazz
+77,gypsy jazz,user3,,Swing Gitan : gypsy jazz
+78,gypsy jazz,user3,3.0,Bossa Dorado : gypsy jazz
+79,gypsy jazz,user3,6.0,Coquette : gypsy jazz
+80,gypsy jazz,user3,4.0,Les Yeux Noirs : gypsy jazz
+81,gypsy jazz,user3,7.0,Sweet Georgia Brown : gypsy jazz
+82,gypsy jazz,user3,8.0,Viper's Dream : gypsy jazz
+83,gypsy jazz,user3,6.0,Swing 39 : gypsy jazz
+84,gypsy jazz,user3,7.0,Dinah : gypsy jazz
+85,gypsy jazz,user3,6.0,Manoir de Mes Rêves : gypsy jazz
+86,gypsy jazz,user3,,For Sephora : gypsy jazz
+87,gypsy jazz,user3,9.0,Double Scotch : gypsy jazz
+88,gypsy jazz,user3,,Swing de Paris : gypsy jazz
+89,gypsy jazz,user3,2.0,September Song : gypsy jazz
+90,gypsy jazz,user4,10.0,Minor Swing : gypsy jazz
+91,gypsy jazz,user4,3.0,Nuages : gypsy jazz
+92,gypsy jazz,user4,5.0,Django's Tiger : gypsy jazz
+93,gypsy jazz,user4,5.0,Swing 42 : gypsy jazz
+94,gypsy jazz,user4,1.0,Douce Ambiance : gypsy jazz
+95,gypsy jazz,user4,9.0,Tears : gypsy jazz
+96,gypsy jazz,user4,3.0,Belleville : gypsy jazz
+97,gypsy jazz,user4,9.0,Limehouse Blues : gypsy jazz
+98,gypsy jazz,user4,10.0,Night and Day : gypsy jazz
+99,gypsy jazz,user4,8.0,All of Me : gypsy jazz
+100,gypsy jazz,user4,6.0,Djangology : gypsy jazz
+101,gypsy jazz,user4,,It Had to Be You : gypsy jazz
+102,gypsy jazz,user4,4.0,Honeysuckle Rose : gypsy jazz
+103,gypsy jazz,user4,3.0,Blues Clair : gypsy jazz
+104,gypsy jazz,user4,6.0,J'attendrai : gypsy jazz
+105,gypsy jazz,user4,8.0,I'll See You in My Dreams : gypsy jazz
+106,gypsy jazz,user4,10.0,Stompin' at Decca : gypsy jazz
+107,gypsy jazz,user4,3.0,Swing Gitan : gypsy jazz
+108,gypsy jazz,user4,6.0,Bossa Dorado : gypsy jazz
+109,gypsy jazz,user4,9.0,Coquette : gypsy jazz
+110,gypsy jazz,user4,1.0,Les Yeux Noirs : gypsy jazz
+111,gypsy jazz,user4,,Sweet Georgia Brown : gypsy jazz
+112,gypsy jazz,user4,10.0,Viper's Dream : gypsy jazz
+113,gypsy jazz,user4,,Swing 39 : gypsy jazz
+114,gypsy jazz,user4,,Dinah : gypsy jazz
+115,gypsy jazz,user4,3.0,Manoir de Mes Rêves : gypsy jazz
+116,gypsy jazz,user4,6.0,For Sephora : gypsy jazz
+117,gypsy jazz,user4,,Double Scotch : gypsy jazz
+118,gypsy jazz,user4,3.0,Swing de Paris : gypsy jazz
+119,gypsy jazz,user4,2.0,September Song : gypsy jazz
+120,gypsy jazz,user5,10.0,Minor Swing : gypsy jazz
+121,gypsy jazz,user5,4.0,Nuages : gypsy jazz
+122,gypsy jazz,user5,1.0,Django's Tiger : gypsy jazz
+123,gypsy jazz,user5,,Swing 42 : gypsy jazz
+124,gypsy jazz,user5,5.0,Douce Ambiance : gypsy jazz
+125,gypsy jazz,user5,9.0,Tears : gypsy jazz
+126,gypsy jazz,user5,3.0,Belleville : gypsy jazz
+127,gypsy jazz,user5,7.0,Limehouse Blues : gypsy jazz
+128,gypsy jazz,user5,2.0,Night and Day : gypsy jazz
+129,gypsy jazz,user5,,All of Me : gypsy jazz
+130,gypsy jazz,user5,,Djangology : gypsy jazz
+131,gypsy jazz,user5,1.0,It Had to Be You : gypsy jazz
+132,gypsy jazz,user5,10.0,Honeysuckle Rose : gypsy jazz
+133,gypsy jazz,user5,4.0,Blues Clair : gypsy jazz
+134,gypsy jazz,user5,1.0,J'attendrai : gypsy jazz
+135,gypsy jazz,user5,10.0,I'll See You in My Dreams : gypsy jazz
+136,gypsy jazz,user5,6.0,Stompin' at Decca : gypsy jazz
+137,gypsy jazz,user5,4.0,Swing Gitan : gypsy jazz
+138,gypsy jazz,user5,4.0,Bossa Dorado : gypsy jazz
+139,gypsy jazz,user5,8.0,Coquette : gypsy jazz
+140,gypsy jazz,user5,,Les Yeux Noirs : gypsy jazz
+141,gypsy jazz,user5,2.0,Sweet Georgia Brown : gypsy jazz
+142,gypsy jazz,user5,4.0,Viper's Dream : gypsy jazz
+143,gypsy jazz,user5,8.0,Swing 39 : gypsy jazz
+144,gypsy jazz,user5,2.0,Dinah : gypsy jazz
+145,gypsy jazz,user5,,Manoir de Mes Rêves : gypsy jazz
+146,gypsy jazz,user5,4.0,For Sephora : gypsy jazz
+147,gypsy jazz,user5,6.0,Double Scotch : gypsy jazz
+148,gypsy jazz,user5,1.0,Swing de Paris : gypsy jazz
+149,gypsy jazz,user5,2.0,September Song : gypsy jazz
+150,gypsy jazz,user6,8.0,Minor Swing : gypsy jazz
+151,gypsy jazz,user6,6.0,Nuages : gypsy jazz
+152,gypsy jazz,user6,5.0,Django's Tiger : gypsy jazz
+153,gypsy jazz,user6,1.0,Swing 42 : gypsy jazz
+154,gypsy jazz,user6,9.0,Douce Ambiance : gypsy jazz
+155,gypsy jazz,user6,10.0,Tears : gypsy jazz
+156,gypsy jazz,user6,10.0,Belleville : gypsy jazz
+157,gypsy jazz,user6,1.0,Limehouse Blues : gypsy jazz
+158,gypsy jazz,user6,8.0,Night and Day : gypsy jazz
+159,gypsy jazz,user6,,All of Me : gypsy jazz
+160,gypsy jazz,user6,2.0,Djangology : gypsy jazz
+161,gypsy jazz,user6,,It Had to Be You : gypsy jazz
+162,gypsy jazz,user6,7.0,Honeysuckle Rose : gypsy jazz
+163,gypsy jazz,user6,6.0,Blues Clair : gypsy jazz
+164,gypsy jazz,user6,,J'attendrai : gypsy jazz
+165,gypsy jazz,user6,2.0,I'll See You in My Dreams : gypsy jazz
+166,gypsy jazz,user6,8.0,Stompin' at Decca : gypsy jazz
+167,gypsy jazz,user6,9.0,Swing Gitan : gypsy jazz
+168,gypsy jazz,user6,3.0,Bossa Dorado : gypsy jazz
+169,gypsy jazz,user6,2.0,Coquette : gypsy jazz
+170,gypsy jazz,user6,2.0,Les Yeux Noirs : gypsy jazz
+171,gypsy jazz,user6,,Sweet Georgia Brown : gypsy jazz
+172,gypsy jazz,user6,7.0,Viper's Dream : gypsy jazz
+173,gypsy jazz,user6,4.0,Swing 39 : gypsy jazz
+174,gypsy jazz,user6,3.0,Dinah : gypsy jazz
+175,gypsy jazz,user6,9.0,Manoir de Mes Rêves : gypsy jazz
+176,gypsy jazz,user6,4.0,For Sephora : gypsy jazz
+177,gypsy jazz,user6,3.0,Double Scotch : gypsy jazz
+178,gypsy jazz,user6,,Swing de Paris : gypsy jazz
+179,gypsy jazz,user6,7.0,September Song : gypsy jazz
+180,gypsy jazz,user7,,Minor Swing : gypsy jazz
+181,gypsy jazz,user7,1.0,Nuages : gypsy jazz
+182,gypsy jazz,user7,8.0,Django's Tiger : gypsy jazz
+183,gypsy jazz,user7,5.0,Swing 42 : gypsy jazz
+184,gypsy jazz,user7,9.0,Douce Ambiance : gypsy jazz
+185,gypsy jazz,user7,7.0,Tears : gypsy jazz
+186,gypsy jazz,user7,,Belleville : gypsy jazz
+187,gypsy jazz,user7,9.0,Limehouse Blues : gypsy jazz
+188,gypsy jazz,user7,1.0,Night and Day : gypsy jazz
+189,gypsy jazz,user7,5.0,All of Me : gypsy jazz
+190,gypsy jazz,user7,5.0,Djangology : gypsy jazz
+191,gypsy jazz,user7,4.0,It Had to Be You : gypsy jazz
+192,gypsy jazz,user7,,Honeysuckle Rose : gypsy jazz
+193,gypsy jazz,user7,10.0,Blues Clair : gypsy jazz
+194,gypsy jazz,user7,6.0,J'attendrai : gypsy jazz
+195,gypsy jazz,user7,7.0,I'll See You in My Dreams : gypsy jazz
+196,gypsy jazz,user7,2.0,Stompin' at Decca : gypsy jazz
+197,gypsy jazz,user7,8.0,Swing Gitan : gypsy jazz
+198,gypsy jazz,user7,8.0,Bossa Dorado : gypsy jazz
+199,gypsy jazz,user7,8.0,Coquette : gypsy jazz
+200,gypsy jazz,user7,9.0,Les Yeux Noirs : gypsy jazz
+201,gypsy jazz,user7,9.0,Sweet Georgia Brown : gypsy jazz
+202,gypsy jazz,user7,6.0,Viper's Dream : gypsy jazz
+203,gypsy jazz,user7,8.0,Swing 39 : gypsy jazz
+204,gypsy jazz,user7,1.0,Dinah : gypsy jazz
+205,gypsy jazz,user7,10.0,Manoir de Mes Rêves : gypsy jazz
+206,gypsy jazz,user7,4.0,For Sephora : gypsy jazz
+207,gypsy jazz,user7,5.0,Double Scotch : gypsy jazz
+208,gypsy jazz,user7,,Swing de Paris : gypsy jazz
+209,gypsy jazz,user7,,September Song : gypsy jazz
+210,gypsy jazz,user8,3.0,Minor Swing : gypsy jazz
+211,gypsy jazz,user8,6.0,Nuages : gypsy jazz
+212,gypsy jazz,user8,,Django's Tiger : gypsy jazz
+213,gypsy jazz,user8,9.0,Swing 42 : gypsy jazz
+214,gypsy jazz,user8,9.0,Douce Ambiance : gypsy jazz
+215,gypsy jazz,user8,3.0,Tears : gypsy jazz
+216,gypsy jazz,user8,9.0,Belleville : gypsy jazz
+217,gypsy jazz,user8,7.0,Limehouse Blues : gypsy jazz
+218,gypsy jazz,user8,5.0,Night and Day : gypsy jazz
+219,gypsy jazz,user8,,All of Me : gypsy jazz
+220,gypsy jazz,user8,3.0,Djangology : gypsy jazz
+221,gypsy jazz,user8,9.0,It Had to Be You : gypsy jazz
+222,gypsy jazz,user8,8.0,Honeysuckle Rose : gypsy jazz
+223,gypsy jazz,user8,5.0,Blues Clair : gypsy jazz
+224,gypsy jazz,user8,8.0,J'attendrai : gypsy jazz
+225,gypsy jazz,user8,10.0,I'll See You in My Dreams : gypsy jazz
+226,gypsy jazz,user8,3.0,Stompin' at Decca : gypsy jazz
+227,gypsy jazz,user8,,Swing Gitan : gypsy jazz
+228,gypsy jazz,user8,9.0,Bossa Dorado : gypsy jazz
+229,gypsy jazz,user8,3.0,Coquette : gypsy jazz
+230,gypsy jazz,user8,6.0,Les Yeux Noirs : gypsy jazz
+231,gypsy jazz,user8,,Sweet Georgia Brown : gypsy jazz
+232,gypsy jazz,user8,3.0,Viper's Dream : gypsy jazz
+233,gypsy jazz,user8,5.0,Swing 39 : gypsy jazz
+234,gypsy jazz,user8,2.0,Dinah : gypsy jazz
+235,gypsy jazz,user8,8.0,Manoir de Mes Rêves : gypsy jazz
+236,gypsy jazz,user8,,For Sephora : gypsy jazz
+237,gypsy jazz,user8,7.0,Double Scotch : gypsy jazz
+238,gypsy jazz,user8,3.0,Swing de Paris : gypsy jazz
+239,gypsy jazz,user8,4.0,September Song : gypsy jazz
+240,gypsy jazz,user9,,Minor Swing : gypsy jazz
+241,gypsy jazz,user9,6.0,Nuages : gypsy jazz
+242,gypsy jazz,user9,9.0,Django's Tiger : gypsy jazz
+243,gypsy jazz,user9,10.0,Swing 42 : gypsy jazz
+244,gypsy jazz,user9,,Douce Ambiance : gypsy jazz
+245,gypsy jazz,user9,6.0,Tears : gypsy jazz
+246,gypsy jazz,user9,3.0,Belleville : gypsy jazz
+247,gypsy jazz,user9,9.0,Limehouse Blues : gypsy jazz
+248,gypsy jazz,user9,1.0,Night and Day : gypsy jazz
+249,gypsy jazz,user9,8.0,All of Me : gypsy jazz
+250,gypsy jazz,user9,3.0,Djangology : gypsy jazz
+251,gypsy jazz,user9,5.0,It Had to Be You : gypsy jazz
+252,gypsy jazz,user9,8.0,Honeysuckle Rose : gypsy jazz
+253,gypsy jazz,user9,10.0,Blues Clair : gypsy jazz
+254,gypsy jazz,user9,4.0,J'attendrai : gypsy jazz
+255,gypsy jazz,user9,7.0,I'll See You in My Dreams : gypsy jazz
+256,gypsy jazz,user9,10.0,Stompin' at Decca : gypsy jazz
+257,gypsy jazz,user9,6.0,Swing Gitan : gypsy jazz
+258,gypsy jazz,user9,3.0,Bossa Dorado : gypsy jazz
+259,gypsy jazz,user9,2.0,Coquette : gypsy jazz
+260,gypsy jazz,user9,3.0,Les Yeux Noirs : gypsy jazz
+261,gypsy jazz,user9,2.0,Sweet Georgia Brown : gypsy jazz
+262,gypsy jazz,user9,,Viper's Dream : gypsy jazz
+263,gypsy jazz,user9,1.0,Swing 39 : gypsy jazz
+264,gypsy jazz,user9,10.0,Dinah : gypsy jazz
+265,gypsy jazz,user9,,Manoir de Mes Rêves : gypsy jazz
+266,gypsy jazz,user9,7.0,For Sephora : gypsy jazz
+267,gypsy jazz,user9,9.0,Double Scotch : gypsy jazz
+268,gypsy jazz,user9,7.0,Swing de Paris : gypsy jazz
+269,gypsy jazz,user9,,September Song : gypsy jazz
+270,gypsy jazz,user10,2.0,Minor Swing : gypsy jazz
+271,gypsy jazz,user10,1.0,Nuages : gypsy jazz
+272,gypsy jazz,user10,6.0,Django's Tiger : gypsy jazz
+273,gypsy jazz,user10,5.0,Swing 42 : gypsy jazz
+274,gypsy jazz,user10,,Douce Ambiance : gypsy jazz
+275,gypsy jazz,user10,8.0,Tears : gypsy jazz
+276,gypsy jazz,user10,1.0,Belleville : gypsy jazz
+277,gypsy jazz,user10,6.0,Limehouse Blues : gypsy jazz
+278,gypsy jazz,user10,,Night and Day : gypsy jazz
+279,gypsy jazz,user10,7.0,All of Me : gypsy jazz
+280,gypsy jazz,user10,1.0,Djangology : gypsy jazz
+281,gypsy jazz,user10,,It Had to Be You : gypsy jazz
+282,gypsy jazz,user10,6.0,Honeysuckle Rose : gypsy jazz
+283,gypsy jazz,user10,3.0,Blues Clair : gypsy jazz
+284,gypsy jazz,user10,7.0,J'attendrai : gypsy jazz
+285,gypsy jazz,user10,5.0,I'll See You in My Dreams : gypsy jazz
+286,gypsy jazz,user10,10.0,Stompin' at Decca : gypsy jazz
+287,gypsy jazz,user10,6.0,Swing Gitan : gypsy jazz
+288,gypsy jazz,user10,2.0,Bossa Dorado : gypsy jazz
+289,gypsy jazz,user10,7.0,Coquette : gypsy jazz
+290,gypsy jazz,user10,2.0,Les Yeux Noirs : gypsy jazz
+291,gypsy jazz,user10,7.0,Sweet Georgia Brown : gypsy jazz
+292,gypsy jazz,user10,6.0,Viper's Dream : gypsy jazz
+293,gypsy jazz,user10,8.0,Swing 39 : gypsy jazz
+294,gypsy jazz,user10,3.0,Dinah : gypsy jazz
+295,gypsy jazz,user10,,Manoir de Mes Rêves : gypsy jazz
+296,gypsy jazz,user10,,For Sephora : gypsy jazz
+297,gypsy jazz,user10,6.0,Double Scotch : gypsy jazz
+298,gypsy jazz,user10,6.0,Swing de Paris : gypsy jazz
+299,gypsy jazz,user10,1.0,September Song : gypsy jazz
+0,pop,user1,,Thriller : pop
+1,pop,user1,4.0,Like a Prayer : pop
+2,pop,user1,2.0,Billie Jean : pop
+3,pop,user1,,I Want It That Way : pop
+4,pop,user1,1.0,Baby One More Time : pop
+5,pop,user1,,Rolling in the Deep : pop
+6,pop,user1,,Blinding Lights : pop
+7,pop,user1,,Shape of You : pop
+8,pop,user1,8.0,Uptown Funk : pop
+9,pop,user1,8.0,Bad Romance : pop
+10,pop,user1,7.0,Roar : pop
+11,pop,user1,10.0,Firework : pop
+12,pop,user1,4.0,Call Me Maybe : pop
+13,pop,user1,8.0,Sorry : pop
+14,pop,user1,4.0,Someone Like You : pop
+15,pop,user1,4.0,Just Dance : pop
+16,pop,user1,7.0,Happy : pop
+17,pop,user1,6.0,Shake It Off : pop
+18,pop,user1,5.0,Umbrella : pop
+19,pop,user1,6.0,Poker Face : pop
+20,pop,user1,10.0,Can't Stop the Feeling : pop
+21,pop,user1,2.0,Sugar : pop
+22,pop,user1,9.0,Havana : pop
+23,pop,user1,8.0,All About That Bass : pop
+24,pop,user1,5.0,Party in the USA : pop
+25,pop,user1,6.0,Tik Tok : pop
+26,pop,user1,4.0,What Makes You Beautiful : pop
+27,pop,user1,1.0,Old Town Road : pop
+28,pop,user1,5.0,Senorita : pop
+29,pop,user1,10.0,Girls Like You : pop
+30,pop,user2,,Thriller : pop
+31,pop,user2,6.0,Like a Prayer : pop
+32,pop,user2,6.0,Billie Jean : pop
+33,pop,user2,7.0,I Want It That Way : pop
+34,pop,user2,3.0,Baby One More Time : pop
+35,pop,user2,6.0,Rolling in the Deep : pop
+36,pop,user2,2.0,Blinding Lights : pop
+37,pop,user2,9.0,Shape of You : pop
+38,pop,user2,10.0,Uptown Funk : pop
+39,pop,user2,2.0,Bad Romance : pop
+40,pop,user2,9.0,Roar : pop
+41,pop,user2,1.0,Firework : pop
+42,pop,user2,10.0,Call Me Maybe : pop
+43,pop,user2,4.0,Sorry : pop
+44,pop,user2,6.0,Someone Like You : pop
+45,pop,user2,,Just Dance : pop
+46,pop,user2,6.0,Happy : pop
+47,pop,user2,,Shake It Off : pop
+48,pop,user2,9.0,Umbrella : pop
+49,pop,user2,1.0,Poker Face : pop
+50,pop,user2,5.0,Can't Stop the Feeling : pop
+51,pop,user2,3.0,Sugar : pop
+52,pop,user2,,Havana : pop
+53,pop,user2,8.0,All About That Bass : pop
+54,pop,user2,7.0,Party in the USA : pop
+55,pop,user2,7.0,Tik Tok : pop
+56,pop,user2,,What Makes You Beautiful : pop
+57,pop,user2,6.0,Old Town Road : pop
+58,pop,user2,1.0,Senorita : pop
+59,pop,user2,5.0,Girls Like You : pop
+60,pop,user3,9.0,Thriller : pop
+61,pop,user3,1.0,Like a Prayer : pop
+62,pop,user3,6.0,Billie Jean : pop
+63,pop,user3,,I Want It That Way : pop
+64,pop,user3,8.0,Baby One More Time : pop
+65,pop,user3,10.0,Rolling in the Deep : pop
+66,pop,user3,2.0,Blinding Lights : pop
+67,pop,user3,,Shape of You : pop
+68,pop,user3,8.0,Uptown Funk : pop
+69,pop,user3,2.0,Bad Romance : pop
+70,pop,user3,5.0,Roar : pop
+71,pop,user3,1.0,Firework : pop
+72,pop,user3,3.0,Call Me Maybe : pop
+73,pop,user3,,Sorry : pop
+74,pop,user3,7.0,Someone Like You : pop
+75,pop,user3,,Just Dance : pop
+76,pop,user3,,Happy : pop
+77,pop,user3,7.0,Shake It Off : pop
+78,pop,user3,8.0,Umbrella : pop
+79,pop,user3,5.0,Poker Face : pop
+80,pop,user3,1.0,Can't Stop the Feeling : pop
+81,pop,user3,6.0,Sugar : pop
+82,pop,user3,5.0,Havana : pop
+83,pop,user3,3.0,All About That Bass : pop
+84,pop,user3,5.0,Party in the USA : pop
+85,pop,user3,10.0,Tik Tok : pop
+86,pop,user3,8.0,What Makes You Beautiful : pop
+87,pop,user3,8.0,Old Town Road : pop
+88,pop,user3,4.0,Senorita : pop
+89,pop,user3,7.0,Girls Like You : pop
+90,pop,user4,2.0,Thriller : pop
+91,pop,user4,3.0,Like a Prayer : pop
+92,pop,user4,2.0,Billie Jean : pop
+93,pop,user4,3.0,I Want It That Way : pop
+94,pop,user4,,Baby One More Time : pop
+95,pop,user4,1.0,Rolling in the Deep : pop
+96,pop,user4,9.0,Blinding Lights : pop
+97,pop,user4,3.0,Shape of You : pop
+98,pop,user4,2.0,Uptown Funk : pop
+99,pop,user4,9.0,Bad Romance : pop
+100,pop,user4,,Roar : pop
+101,pop,user4,1.0,Firework : pop
+102,pop,user4,7.0,Call Me Maybe : pop
+103,pop,user4,1.0,Sorry : pop
+104,pop,user4,4.0,Someone Like You : pop
+105,pop,user4,,Just Dance : pop
+106,pop,user4,7.0,Happy : pop
+107,pop,user4,8.0,Shake It Off : pop
+108,pop,user4,2.0,Umbrella : pop
+109,pop,user4,10.0,Poker Face : pop
+110,pop,user4,2.0,Can't Stop the Feeling : pop
+111,pop,user4,10.0,Sugar : pop
+112,pop,user4,,Havana : pop
+113,pop,user4,7.0,All About That Bass : pop
+114,pop,user4,,Party in the USA : pop
+115,pop,user4,10.0,Tik Tok : pop
+116,pop,user4,6.0,What Makes You Beautiful : pop
+117,pop,user4,4.0,Old Town Road : pop
+118,pop,user4,6.0,Senorita : pop
+119,pop,user4,10.0,Girls Like You : pop
+120,pop,user5,3.0,Thriller : pop
+121,pop,user5,10.0,Like a Prayer : pop
+122,pop,user5,6.0,Billie Jean : pop
+123,pop,user5,9.0,I Want It That Way : pop
+124,pop,user5,,Baby One More Time : pop
+125,pop,user5,,Rolling in the Deep : pop
+126,pop,user5,4.0,Blinding Lights : pop
+127,pop,user5,1.0,Shape of You : pop
+128,pop,user5,,Uptown Funk : pop
+129,pop,user5,1.0,Bad Romance : pop
+130,pop,user5,4.0,Roar : pop
+131,pop,user5,10.0,Firework : pop
+132,pop,user5,1.0,Call Me Maybe : pop
+133,pop,user5,5.0,Sorry : pop
+134,pop,user5,,Someone Like You : pop
+135,pop,user5,9.0,Just Dance : pop
+136,pop,user5,6.0,Happy : pop
+137,pop,user5,9.0,Shake It Off : pop
+138,pop,user5,4.0,Umbrella : pop
+139,pop,user5,9.0,Poker Face : pop
+140,pop,user5,7.0,Can't Stop the Feeling : pop
+141,pop,user5,2.0,Sugar : pop
+142,pop,user5,5.0,Havana : pop
+143,pop,user5,3.0,All About That Bass : pop
+144,pop,user5,6.0,Party in the USA : pop
+145,pop,user5,4.0,Tik Tok : pop
+146,pop,user5,2.0,What Makes You Beautiful : pop
+147,pop,user5,,Old Town Road : pop
+148,pop,user5,4.0,Senorita : pop
+149,pop,user5,9.0,Girls Like You : pop
+150,pop,user6,9.0,Thriller : pop
+151,pop,user6,6.0,Like a Prayer : pop
+152,pop,user6,7.0,Billie Jean : pop
+153,pop,user6,,I Want It That Way : pop
+154,pop,user6,5.0,Baby One More Time : pop
+155,pop,user6,8.0,Rolling in the Deep : pop
+156,pop,user6,,Blinding Lights : pop
+157,pop,user6,8.0,Shape of You : pop
+158,pop,user6,6.0,Uptown Funk : pop
+159,pop,user6,7.0,Bad Romance : pop
+160,pop,user6,,Roar : pop
+161,pop,user6,1.0,Firework : pop
+162,pop,user6,5.0,Call Me Maybe : pop
+163,pop,user6,,Sorry : pop
+164,pop,user6,8.0,Someone Like You : pop
+165,pop,user6,5.0,Just Dance : pop
+166,pop,user6,7.0,Happy : pop
+167,pop,user6,3.0,Shake It Off : pop
+168,pop,user6,10.0,Umbrella : pop
+169,pop,user6,8.0,Poker Face : pop
+170,pop,user6,10.0,Can't Stop the Feeling : pop
+171,pop,user6,,Sugar : pop
+172,pop,user6,10.0,Havana : pop
+173,pop,user6,4.0,All About That Bass : pop
+174,pop,user6,7.0,Party in the USA : pop
+175,pop,user6,2.0,Tik Tok : pop
+176,pop,user6,8.0,What Makes You Beautiful : pop
+177,pop,user6,5.0,Old Town Road : pop
+178,pop,user6,10.0,Senorita : pop
+179,pop,user6,10.0,Girls Like You : pop
+180,pop,user7,8.0,Thriller : pop
+181,pop,user7,9.0,Like a Prayer : pop
+182,pop,user7,5.0,Billie Jean : pop
+183,pop,user7,,I Want It That Way : pop
+184,pop,user7,9.0,Baby One More Time : pop
+185,pop,user7,3.0,Rolling in the Deep : pop
+186,pop,user7,7.0,Blinding Lights : pop
+187,pop,user7,9.0,Shape of You : pop
+188,pop,user7,9.0,Uptown Funk : pop
+189,pop,user7,4.0,Bad Romance : pop
+190,pop,user7,2.0,Roar : pop
+191,pop,user7,1.0,Firework : pop
+192,pop,user7,1.0,Call Me Maybe : pop
+193,pop,user7,10.0,Sorry : pop
+194,pop,user7,10.0,Someone Like You : pop
+195,pop,user7,10.0,Just Dance : pop
+196,pop,user7,9.0,Happy : pop
+197,pop,user7,8.0,Shake It Off : pop
+198,pop,user7,,Umbrella : pop
+199,pop,user7,,Poker Face : pop
+200,pop,user7,2.0,Can't Stop the Feeling : pop
+201,pop,user7,3.0,Sugar : pop
+202,pop,user7,2.0,Havana : pop
+203,pop,user7,3.0,All About That Bass : pop
+204,pop,user7,4.0,Party in the USA : pop
+205,pop,user7,1.0,Tik Tok : pop
+206,pop,user7,4.0,What Makes You Beautiful : pop
+207,pop,user7,,Old Town Road : pop
+208,pop,user7,,Senorita : pop
+209,pop,user7,3.0,Girls Like You : pop
+210,pop,user8,4.0,Thriller : pop
+211,pop,user8,8.0,Like a Prayer : pop
+212,pop,user8,5.0,Billie Jean : pop
+213,pop,user8,8.0,I Want It That Way : pop
+214,pop,user8,10.0,Baby One More Time : pop
+215,pop,user8,9.0,Rolling in the Deep : pop
+216,pop,user8,4.0,Blinding Lights : pop
+217,pop,user8,7.0,Shape of You : pop
+218,pop,user8,4.0,Uptown Funk : pop
+219,pop,user8,9.0,Bad Romance : pop
+220,pop,user8,1.0,Roar : pop
+221,pop,user8,,Firework : pop
+222,pop,user8,8.0,Call Me Maybe : pop
+223,pop,user8,,Sorry : pop
+224,pop,user8,2.0,Someone Like You : pop
+225,pop,user8,3.0,Just Dance : pop
+226,pop,user8,4.0,Happy : pop
+227,pop,user8,1.0,Shake It Off : pop
+228,pop,user8,5.0,Umbrella : pop
+229,pop,user8,9.0,Poker Face : pop
+230,pop,user8,,Can't Stop the Feeling : pop
+231,pop,user8,1.0,Sugar : pop
+232,pop,user8,6.0,Havana : pop
+233,pop,user8,,All About That Bass : pop
+234,pop,user8,5.0,Party in the USA : pop
+235,pop,user8,8.0,Tik Tok : pop
+236,pop,user8,6.0,What Makes You Beautiful : pop
+237,pop,user8,,Old Town Road : pop
+238,pop,user8,4.0,Senorita : pop
+239,pop,user8,6.0,Girls Like You : pop
+240,pop,user9,5.0,Thriller : pop
+241,pop,user9,1.0,Like a Prayer : pop
+242,pop,user9,7.0,Billie Jean : pop
+243,pop,user9,6.0,I Want It That Way : pop
+244,pop,user9,9.0,Baby One More Time : pop
+245,pop,user9,9.0,Rolling in the Deep : pop
+246,pop,user9,,Blinding Lights : pop
+247,pop,user9,9.0,Shape of You : pop
+248,pop,user9,7.0,Uptown Funk : pop
+249,pop,user9,,Bad Romance : pop
+250,pop,user9,1.0,Roar : pop
+251,pop,user9,6.0,Firework : pop
+252,pop,user9,8.0,Call Me Maybe : pop
+253,pop,user9,1.0,Sorry : pop
+254,pop,user9,5.0,Someone Like You : pop
+255,pop,user9,7.0,Just Dance : pop
+256,pop,user9,5.0,Happy : pop
+257,pop,user9,6.0,Shake It Off : pop
+258,pop,user9,9.0,Umbrella : pop
+259,pop,user9,,Poker Face : pop
+260,pop,user9,7.0,Can't Stop the Feeling : pop
+261,pop,user9,,Sugar : pop
+262,pop,user9,4.0,Havana : pop
+263,pop,user9,10.0,All About That Bass : pop
+264,pop,user9,,Party in the USA : pop
+265,pop,user9,4.0,Tik Tok : pop
+266,pop,user9,9.0,What Makes You Beautiful : pop
+267,pop,user9,6.0,Old Town Road : pop
+268,pop,user9,4.0,Senorita : pop
+269,pop,user9,3.0,Girls Like You : pop
+270,pop,user10,3.0,Thriller : pop
+271,pop,user10,1.0,Like a Prayer : pop
+272,pop,user10,9.0,Billie Jean : pop
+273,pop,user10,9.0,I Want It That Way : pop
+274,pop,user10,8.0,Baby One More Time : pop
+275,pop,user10,1.0,Rolling in the Deep : pop
+276,pop,user10,3.0,Blinding Lights : pop
+277,pop,user10,1.0,Shape of You : pop
+278,pop,user10,4.0,Uptown Funk : pop
+279,pop,user10,8.0,Bad Romance : pop
+280,pop,user10,8.0,Roar : pop
+281,pop,user10,2.0,Firework : pop
+282,pop,user10,7.0,Call Me Maybe : pop
+283,pop,user10,1.0,Sorry : pop
+284,pop,user10,3.0,Someone Like You : pop
+285,pop,user10,,Just Dance : pop
+286,pop,user10,,Happy : pop
+287,pop,user10,10.0,Shake It Off : pop
+288,pop,user10,6.0,Umbrella : pop
+289,pop,user10,,Poker Face : pop
+290,pop,user10,10.0,Can't Stop the Feeling : pop
+291,pop,user10,,Sugar : pop
+292,pop,user10,2.0,Havana : pop
+293,pop,user10,1.0,All About That Bass : pop
+294,pop,user10,7.0,Party in the USA : pop
+295,pop,user10,,Tik Tok : pop
+296,pop,user10,6.0,What Makes You Beautiful : pop
+297,pop,user10,3.0,Old Town Road : pop
+298,pop,user10,9.0,Senorita : pop
+299,pop,user10,3.0,Girls Like You : pop
+0,jazz,user1,6.0,Take Five : jazz
+1,jazz,user1,,So What : jazz
+2,jazz,user1,5.0,Autumn Leaves : jazz
+3,jazz,user1,4.0,My Favorite Things : jazz
+4,jazz,user1,3.0,Blue in Green : jazz
+5,jazz,user1,1.0,All Blues : jazz
+6,jazz,user1,3.0,Freddie Freeloader : jazz
+7,jazz,user1,9.0,Round Midnight : jazz
+8,jazz,user1,,All the Things You Are : jazz
+9,jazz,user1,8.0,Giant Steps : jazz
+10,jazz,user1,7.0,Summertime : jazz
+11,jazz,user1,3.0,Cantaloupe Island : jazz
+12,jazz,user1,3.0,Birdland : jazz
+13,jazz,user1,,Stolen Moments : jazz
+14,jazz,user1,,A Night in Tunisia : jazz
+15,jazz,user1,7.0,Maiden Voyage : jazz
+16,jazz,user1,8.0,Footprints : jazz
+17,jazz,user1,9.0,My Funny Valentine : jazz
+18,jazz,user1,9.0,A Love Supreme : jazz
+19,jazz,user1,7.0,Chameleon : jazz
+20,jazz,user1,1.0,"Straight, No Chaser : jazz"
+21,jazz,user1,3.0,In a Sentimental Mood : jazz
+22,jazz,user1,5.0,Dolphin Dance : jazz
+23,jazz,user1,9.0,Song for My Father : jazz
+24,jazz,user1,9.0,Watermelon Man : jazz
+25,jazz,user1,2.0,Body and Soul : jazz
+26,jazz,user1,2.0,Lullaby of Birdland : jazz
+27,jazz,user1,9.0,Misty : jazz
+28,jazz,user1,1.0,Goodbye Pork Pie Hat : jazz
+29,jazz,user1,,Caravan : jazz
+30,jazz,user2,2.0,Take Five : jazz
+31,jazz,user2,1.0,So What : jazz
+32,jazz,user2,3.0,Autumn Leaves : jazz
+33,jazz,user2,,My Favorite Things : jazz
+34,jazz,user2,10.0,Blue in Green : jazz
+35,jazz,user2,1.0,All Blues : jazz
+36,jazz,user2,6.0,Freddie Freeloader : jazz
+37,jazz,user2,3.0,Round Midnight : jazz
+38,jazz,user2,,All the Things You Are : jazz
+39,jazz,user2,6.0,Giant Steps : jazz
+40,jazz,user2,3.0,Summertime : jazz
+41,jazz,user2,4.0,Cantaloupe Island : jazz
+42,jazz,user2,9.0,Birdland : jazz
+43,jazz,user2,5.0,Stolen Moments : jazz
+44,jazz,user2,3.0,A Night in Tunisia : jazz
+45,jazz,user2,4.0,Maiden Voyage : jazz
+46,jazz,user2,,Footprints : jazz
+47,jazz,user2,6.0,My Funny Valentine : jazz
+48,jazz,user2,,A Love Supreme : jazz
+49,jazz,user2,,Chameleon : jazz
+50,jazz,user2,10.0,"Straight, No Chaser : jazz"
+51,jazz,user2,4.0,In a Sentimental Mood : jazz
+52,jazz,user2,10.0,Dolphin Dance : jazz
+53,jazz,user2,7.0,Song for My Father : jazz
+54,jazz,user2,7.0,Watermelon Man : jazz
+55,jazz,user2,8.0,Body and Soul : jazz
+56,jazz,user2,7.0,Lullaby of Birdland : jazz
+57,jazz,user2,6.0,Misty : jazz
+58,jazz,user2,10.0,Goodbye Pork Pie Hat : jazz
+59,jazz,user2,2.0,Caravan : jazz
+60,jazz,user3,,Take Five : jazz
+61,jazz,user3,7.0,So What : jazz
+62,jazz,user3,1.0,Autumn Leaves : jazz
+63,jazz,user3,3.0,My Favorite Things : jazz
+64,jazz,user3,,Blue in Green : jazz
+65,jazz,user3,6.0,All Blues : jazz
+66,jazz,user3,5.0,Freddie Freeloader : jazz
+67,jazz,user3,10.0,Round Midnight : jazz
+68,jazz,user3,1.0,All the Things You Are : jazz
+69,jazz,user3,3.0,Giant Steps : jazz
+70,jazz,user3,7.0,Summertime : jazz
+71,jazz,user3,3.0,Cantaloupe Island : jazz
+72,jazz,user3,1.0,Birdland : jazz
+73,jazz,user3,4.0,Stolen Moments : jazz
+74,jazz,user3,2.0,A Night in Tunisia : jazz
+75,jazz,user3,2.0,Maiden Voyage : jazz
+76,jazz,user3,1.0,Footprints : jazz
+77,jazz,user3,2.0,My Funny Valentine : jazz
+78,jazz,user3,,A Love Supreme : jazz
+79,jazz,user3,4.0,Chameleon : jazz
+80,jazz,user3,8.0,"Straight, No Chaser : jazz"
+81,jazz,user3,10.0,In a Sentimental Mood : jazz
+82,jazz,user3,2.0,Dolphin Dance : jazz
+83,jazz,user3,3.0,Song for My Father : jazz
+84,jazz,user3,,Watermelon Man : jazz
+85,jazz,user3,9.0,Body and Soul : jazz
+86,jazz,user3,6.0,Lullaby of Birdland : jazz
+87,jazz,user3,2.0,Misty : jazz
+88,jazz,user3,10.0,Goodbye Pork Pie Hat : jazz
+89,jazz,user3,,Caravan : jazz
+90,jazz,user4,4.0,Take Five : jazz
+91,jazz,user4,,So What : jazz
+92,jazz,user4,9.0,Autumn Leaves : jazz
+93,jazz,user4,8.0,My Favorite Things : jazz
+94,jazz,user4,10.0,Blue in Green : jazz
+95,jazz,user4,,All Blues : jazz
+96,jazz,user4,3.0,Freddie Freeloader : jazz
+97,jazz,user4,1.0,Round Midnight : jazz
+98,jazz,user4,3.0,All the Things You Are : jazz
+99,jazz,user4,6.0,Giant Steps : jazz
+100,jazz,user4,3.0,Summertime : jazz
+101,jazz,user4,,Cantaloupe Island : jazz
+102,jazz,user4,,Birdland : jazz
+103,jazz,user4,3.0,Stolen Moments : jazz
+104,jazz,user4,8.0,A Night in Tunisia : jazz
+105,jazz,user4,7.0,Maiden Voyage : jazz
+106,jazz,user4,1.0,Footprints : jazz
+107,jazz,user4,2.0,My Funny Valentine : jazz
+108,jazz,user4,4.0,A Love Supreme : jazz
+109,jazz,user4,2.0,Chameleon : jazz
+110,jazz,user4,7.0,"Straight, No Chaser : jazz"
+111,jazz,user4,4.0,In a Sentimental Mood : jazz
+112,jazz,user4,1.0,Dolphin Dance : jazz
+113,jazz,user4,,Song for My Father : jazz
+114,jazz,user4,9.0,Watermelon Man : jazz
+115,jazz,user4,9.0,Body and Soul : jazz
+116,jazz,user4,5.0,Lullaby of Birdland : jazz
+117,jazz,user4,5.0,Misty : jazz
+118,jazz,user4,10.0,Goodbye Pork Pie Hat : jazz
+119,jazz,user4,9.0,Caravan : jazz
+120,jazz,user5,7.0,Take Five : jazz
+121,jazz,user5,7.0,So What : jazz
+122,jazz,user5,1.0,Autumn Leaves : jazz
+123,jazz,user5,8.0,My Favorite Things : jazz
+124,jazz,user5,5.0,Blue in Green : jazz
+125,jazz,user5,4.0,All Blues : jazz
+126,jazz,user5,4.0,Freddie Freeloader : jazz
+127,jazz,user5,3.0,Round Midnight : jazz
+128,jazz,user5,2.0,All the Things You Are : jazz
+129,jazz,user5,,Giant Steps : jazz
+130,jazz,user5,6.0,Summertime : jazz
+131,jazz,user5,4.0,Cantaloupe Island : jazz
+132,jazz,user5,6.0,Birdland : jazz
+133,jazz,user5,4.0,Stolen Moments : jazz
+134,jazz,user5,9.0,A Night in Tunisia : jazz
+135,jazz,user5,1.0,Maiden Voyage : jazz
+136,jazz,user5,7.0,Footprints : jazz
+137,jazz,user5,6.0,My Funny Valentine : jazz
+138,jazz,user5,3.0,A Love Supreme : jazz
+139,jazz,user5,,Chameleon : jazz
+140,jazz,user5,5.0,"Straight, No Chaser : jazz"
+141,jazz,user5,7.0,In a Sentimental Mood : jazz
+142,jazz,user5,,Dolphin Dance : jazz
+143,jazz,user5,,Song for My Father : jazz
+144,jazz,user5,9.0,Watermelon Man : jazz
+145,jazz,user5,10.0,Body and Soul : jazz
+146,jazz,user5,3.0,Lullaby of Birdland : jazz
+147,jazz,user5,,Misty : jazz
+148,jazz,user5,10.0,Goodbye Pork Pie Hat : jazz
+149,jazz,user5,5.0,Caravan : jazz
+150,jazz,user6,1.0,Take Five : jazz
+151,jazz,user6,5.0,So What : jazz
+152,jazz,user6,8.0,Autumn Leaves : jazz
+153,jazz,user6,6.0,My Favorite Things : jazz
+154,jazz,user6,2.0,Blue in Green : jazz
+155,jazz,user6,8.0,All Blues : jazz
+156,jazz,user6,,Freddie Freeloader : jazz
+157,jazz,user6,6.0,Round Midnight : jazz
+158,jazz,user6,5.0,All the Things You Are : jazz
+159,jazz,user6,,Giant Steps : jazz
+160,jazz,user6,3.0,Summertime : jazz
+161,jazz,user6,1.0,Cantaloupe Island : jazz
+162,jazz,user6,1.0,Birdland : jazz
+163,jazz,user6,4.0,Stolen Moments : jazz
+164,jazz,user6,3.0,A Night in Tunisia : jazz
+165,jazz,user6,2.0,Maiden Voyage : jazz
+166,jazz,user6,1.0,Footprints : jazz
+167,jazz,user6,3.0,My Funny Valentine : jazz
+168,jazz,user6,2.0,A Love Supreme : jazz
+169,jazz,user6,2.0,Chameleon : jazz
+170,jazz,user6,1.0,"Straight, No Chaser : jazz"
+171,jazz,user6,3.0,In a Sentimental Mood : jazz
+172,jazz,user6,4.0,Dolphin Dance : jazz
+173,jazz,user6,,Song for My Father : jazz
+174,jazz,user6,10.0,Watermelon Man : jazz
+175,jazz,user6,1.0,Body and Soul : jazz
+176,jazz,user6,,Lullaby of Birdland : jazz
+177,jazz,user6,,Misty : jazz
+178,jazz,user6,2.0,Goodbye Pork Pie Hat : jazz
+179,jazz,user6,1.0,Caravan : jazz
+180,jazz,user7,7.0,Take Five : jazz
+181,jazz,user7,8.0,So What : jazz
+182,jazz,user7,9.0,Autumn Leaves : jazz
+183,jazz,user7,,My Favorite Things : jazz
+184,jazz,user7,2.0,Blue in Green : jazz
+185,jazz,user7,3.0,All Blues : jazz
+186,jazz,user7,7.0,Freddie Freeloader : jazz
+187,jazz,user7,8.0,Round Midnight : jazz
+188,jazz,user7,3.0,All the Things You Are : jazz
+189,jazz,user7,7.0,Giant Steps : jazz
+190,jazz,user7,2.0,Summertime : jazz
+191,jazz,user7,4.0,Cantaloupe Island : jazz
+192,jazz,user7,2.0,Birdland : jazz
+193,jazz,user7,,Stolen Moments : jazz
+194,jazz,user7,,A Night in Tunisia : jazz
+195,jazz,user7,10.0,Maiden Voyage : jazz
+196,jazz,user7,1.0,Footprints : jazz
+197,jazz,user7,7.0,My Funny Valentine : jazz
+198,jazz,user7,5.0,A Love Supreme : jazz
+199,jazz,user7,9.0,Chameleon : jazz
+200,jazz,user7,,"Straight, No Chaser : jazz"
+201,jazz,user7,10.0,In a Sentimental Mood : jazz
+202,jazz,user7,10.0,Dolphin Dance : jazz
+203,jazz,user7,5.0,Song for My Father : jazz
+204,jazz,user7,,Watermelon Man : jazz
+205,jazz,user7,1.0,Body and Soul : jazz
+206,jazz,user7,4.0,Lullaby of Birdland : jazz
+207,jazz,user7,8.0,Misty : jazz
+208,jazz,user7,5.0,Goodbye Pork Pie Hat : jazz
+209,jazz,user7,7.0,Caravan : jazz
+210,jazz,user8,10.0,Take Five : jazz
+211,jazz,user8,10.0,So What : jazz
+212,jazz,user8,8.0,Autumn Leaves : jazz
+213,jazz,user8,,My Favorite Things : jazz
+214,jazz,user8,6.0,Blue in Green : jazz
+215,jazz,user8,4.0,All Blues : jazz
+216,jazz,user8,7.0,Freddie Freeloader : jazz
+217,jazz,user8,1.0,Round Midnight : jazz
+218,jazz,user8,,All the Things You Are : jazz
+219,jazz,user8,5.0,Giant Steps : jazz
+220,jazz,user8,6.0,Summertime : jazz
+221,jazz,user8,3.0,Cantaloupe Island : jazz
+222,jazz,user8,,Birdland : jazz
+223,jazz,user8,1.0,Stolen Moments : jazz
+224,jazz,user8,1.0,A Night in Tunisia : jazz
+225,jazz,user8,2.0,Maiden Voyage : jazz
+226,jazz,user8,3.0,Footprints : jazz
+227,jazz,user8,8.0,My Funny Valentine : jazz
+228,jazz,user8,1.0,A Love Supreme : jazz
+229,jazz,user8,10.0,Chameleon : jazz
+230,jazz,user8,4.0,"Straight, No Chaser : jazz"
+231,jazz,user8,,In a Sentimental Mood : jazz
+232,jazz,user8,5.0,Dolphin Dance : jazz
+233,jazz,user8,4.0,Song for My Father : jazz
+234,jazz,user8,6.0,Watermelon Man : jazz
+235,jazz,user8,4.0,Body and Soul : jazz
+236,jazz,user8,8.0,Lullaby of Birdland : jazz
+237,jazz,user8,,Misty : jazz
+238,jazz,user8,7.0,Goodbye Pork Pie Hat : jazz
+239,jazz,user8,8.0,Caravan : jazz
+240,jazz,user9,1.0,Take Five : jazz
+241,jazz,user9,1.0,So What : jazz
+242,jazz,user9,5.0,Autumn Leaves : jazz
+243,jazz,user9,8.0,My Favorite Things : jazz
+244,jazz,user9,9.0,Blue in Green : jazz
+245,jazz,user9,5.0,All Blues : jazz
+246,jazz,user9,,Freddie Freeloader : jazz
+247,jazz,user9,5.0,Round Midnight : jazz
+248,jazz,user9,4.0,All the Things You Are : jazz
+249,jazz,user9,,Giant Steps : jazz
+250,jazz,user9,,Summertime : jazz
+251,jazz,user9,6.0,Cantaloupe Island : jazz
+252,jazz,user9,6.0,Birdland : jazz
+253,jazz,user9,5.0,Stolen Moments : jazz
+254,jazz,user9,5.0,A Night in Tunisia : jazz
+255,jazz,user9,2.0,Maiden Voyage : jazz
+256,jazz,user9,10.0,Footprints : jazz
+257,jazz,user9,10.0,My Funny Valentine : jazz
+258,jazz,user9,8.0,A Love Supreme : jazz
+259,jazz,user9,9.0,Chameleon : jazz
+260,jazz,user9,2.0,"Straight, No Chaser : jazz"
+261,jazz,user9,9.0,In a Sentimental Mood : jazz
+262,jazz,user9,,Dolphin Dance : jazz
+263,jazz,user9,9.0,Song for My Father : jazz
+264,jazz,user9,3.0,Watermelon Man : jazz
+265,jazz,user9,,Body and Soul : jazz
+266,jazz,user9,9.0,Lullaby of Birdland : jazz
+267,jazz,user9,3.0,Misty : jazz
+268,jazz,user9,3.0,Goodbye Pork Pie Hat : jazz
+269,jazz,user9,9.0,Caravan : jazz
+270,jazz,user10,3.0,Take Five : jazz
+271,jazz,user10,2.0,So What : jazz
+272,jazz,user10,,Autumn Leaves : jazz
+273,jazz,user10,4.0,My Favorite Things : jazz
+274,jazz,user10,8.0,Blue in Green : jazz
+275,jazz,user10,10.0,All Blues : jazz
+276,jazz,user10,2.0,Freddie Freeloader : jazz
+277,jazz,user10,8.0,Round Midnight : jazz
+278,jazz,user10,6.0,All the Things You Are : jazz
+279,jazz,user10,5.0,Giant Steps : jazz
+280,jazz,user10,,Summertime : jazz
+281,jazz,user10,2.0,Cantaloupe Island : jazz
+282,jazz,user10,1.0,Birdland : jazz
+283,jazz,user10,8.0,Stolen Moments : jazz
+284,jazz,user10,8.0,A Night in Tunisia : jazz
+285,jazz,user10,10.0,Maiden Voyage : jazz
+286,jazz,user10,3.0,Footprints : jazz
+287,jazz,user10,6.0,My Funny Valentine : jazz
+288,jazz,user10,6.0,A Love Supreme : jazz
+289,jazz,user10,4.0,Chameleon : jazz
+290,jazz,user10,,"Straight, No Chaser : jazz"
+291,jazz,user10,9.0,In a Sentimental Mood : jazz
+292,jazz,user10,6.0,Dolphin Dance : jazz
+293,jazz,user10,4.0,Song for My Father : jazz
+294,jazz,user10,,Watermelon Man : jazz
+295,jazz,user10,10.0,Body and Soul : jazz
+296,jazz,user10,5.0,Lullaby of Birdland : jazz
+297,jazz,user10,6.0,Misty : jazz
+298,jazz,user10,,Goodbye Pork Pie Hat : jazz
+299,jazz,user10,8.0,Caravan : jazz
+0,rock,user1,5.0,Stairway to Heaven : rock
+1,rock,user1,,Bohemian Rhapsody : rock
+2,rock,user1,2.0,Hotel California : rock
+3,rock,user1,6.0,Sweet Child O' Mine : rock
+4,rock,user1,,Smoke on the Water : rock
+5,rock,user1,4.0,Back in Black : rock
+6,rock,user1,2.0,Comfortably Numb : rock
+7,rock,user1,3.0,Free Bird : rock
+8,rock,user1,8.0,Highway to Hell : rock
+9,rock,user1,1.0,Livin' on a Prayer : rock
+10,rock,user1,4.0,Paranoid : rock
+11,rock,user1,3.0,Whole Lotta Love : rock
+12,rock,user1,10.0,Purple Haze : rock
+13,rock,user1,2.0,November Rain : rock
+14,rock,user1,3.0,Layla : rock
+15,rock,user1,3.0,Dream On : rock
+16,rock,user1,4.0,Another Brick in the Wall : rock
+17,rock,user1,6.0,Born to Run : rock
+18,rock,user1,5.0,Wish You Were Here : rock
+19,rock,user1,,Sympathy for the Devil : rock
+20,rock,user1,1.0,Paint It Black : rock
+21,rock,user1,6.0,Don't Stop Believin' : rock
+22,rock,user1,,Hey Jude : rock
+23,rock,user1,1.0,We Will Rock You : rock
+24,rock,user1,1.0,Enter Sandman : rock
+25,rock,user1,10.0,Kashmir : rock
+26,rock,user1,3.0,You Shook Me All Night Long : rock
+27,rock,user1,1.0,Riders on the Storm : rock
+28,rock,user1,5.0,Hells Bells : rock
+29,rock,user1,,Money for Nothing : rock
+30,rock,user2,5.0,Stairway to Heaven : rock
+31,rock,user2,3.0,Bohemian Rhapsody : rock
+32,rock,user2,,Hotel California : rock
+33,rock,user2,4.0,Sweet Child O' Mine : rock
+34,rock,user2,7.0,Smoke on the Water : rock
+35,rock,user2,9.0,Back in Black : rock
+36,rock,user2,4.0,Comfortably Numb : rock
+37,rock,user2,,Free Bird : rock
+38,rock,user2,8.0,Highway to Hell : rock
+39,rock,user2,5.0,Livin' on a Prayer : rock
+40,rock,user2,,Paranoid : rock
+41,rock,user2,4.0,Whole Lotta Love : rock
+42,rock,user2,6.0,Purple Haze : rock
+43,rock,user2,4.0,November Rain : rock
+44,rock,user2,9.0,Layla : rock
+45,rock,user2,4.0,Dream On : rock
+46,rock,user2,,Another Brick in the Wall : rock
+47,rock,user2,2.0,Born to Run : rock
+48,rock,user2,7.0,Wish You Were Here : rock
+49,rock,user2,1.0,Sympathy for the Devil : rock
+50,rock,user2,1.0,Paint It Black : rock
+51,rock,user2,8.0,Don't Stop Believin' : rock
+52,rock,user2,2.0,Hey Jude : rock
+53,rock,user2,4.0,We Will Rock You : rock
+54,rock,user2,2.0,Enter Sandman : rock
+55,rock,user2,6.0,Kashmir : rock
+56,rock,user2,9.0,You Shook Me All Night Long : rock
+57,rock,user2,,Riders on the Storm : rock
+58,rock,user2,4.0,Hells Bells : rock
+59,rock,user2,7.0,Money for Nothing : rock
+60,rock,user3,4.0,Stairway to Heaven : rock
+61,rock,user3,2.0,Bohemian Rhapsody : rock
+62,rock,user3,5.0,Hotel California : rock
+63,rock,user3,3.0,Sweet Child O' Mine : rock
+64,rock,user3,,Smoke on the Water : rock
+65,rock,user3,,Back in Black : rock
+66,rock,user3,5.0,Comfortably Numb : rock
+67,rock,user3,6.0,Free Bird : rock
+68,rock,user3,6.0,Highway to Hell : rock
+69,rock,user3,1.0,Livin' on a Prayer : rock
+70,rock,user3,,Paranoid : rock
+71,rock,user3,5.0,Whole Lotta Love : rock
+72,rock,user3,,Purple Haze : rock
+73,rock,user3,2.0,November Rain : rock
+74,rock,user3,3.0,Layla : rock
+75,rock,user3,8.0,Dream On : rock
+76,rock,user3,10.0,Another Brick in the Wall : rock
+77,rock,user3,,Born to Run : rock
+78,rock,user3,2.0,Wish You Were Here : rock
+79,rock,user3,2.0,Sympathy for the Devil : rock
+80,rock,user3,4.0,Paint It Black : rock
+81,rock,user3,7.0,Don't Stop Believin' : rock
+82,rock,user3,6.0,Hey Jude : rock
+83,rock,user3,10.0,We Will Rock You : rock
+84,rock,user3,9.0,Enter Sandman : rock
+85,rock,user3,1.0,Kashmir : rock
+86,rock,user3,6.0,You Shook Me All Night Long : rock
+87,rock,user3,1.0,Riders on the Storm : rock
+88,rock,user3,9.0,Hells Bells : rock
+89,rock,user3,7.0,Money for Nothing : rock
+90,rock,user4,3.0,Stairway to Heaven : rock
+91,rock,user4,7.0,Bohemian Rhapsody : rock
+92,rock,user4,8.0,Hotel California : rock
+93,rock,user4,5.0,Sweet Child O' Mine : rock
+94,rock,user4,,Smoke on the Water : rock
+95,rock,user4,5.0,Back in Black : rock
+96,rock,user4,,Comfortably Numb : rock
+97,rock,user4,1.0,Free Bird : rock
+98,rock,user4,5.0,Highway to Hell : rock
+99,rock,user4,7.0,Livin' on a Prayer : rock
+100,rock,user4,,Paranoid : rock
+101,rock,user4,5.0,Whole Lotta Love : rock
+102,rock,user4,,Purple Haze : rock
+103,rock,user4,4.0,November Rain : rock
+104,rock,user4,7.0,Layla : rock
+105,rock,user4,8.0,Dream On : rock
+106,rock,user4,9.0,Another Brick in the Wall : rock
+107,rock,user4,2.0,Born to Run : rock
+108,rock,user4,,Wish You Were Here : rock
+109,rock,user4,6.0,Sympathy for the Devil : rock
+110,rock,user4,2.0,Paint It Black : rock
+111,rock,user4,9.0,Don't Stop Believin' : rock
+112,rock,user4,1.0,Hey Jude : rock
+113,rock,user4,3.0,We Will Rock You : rock
+114,rock,user4,3.0,Enter Sandman : rock
+115,rock,user4,8.0,Kashmir : rock
+116,rock,user4,7.0,You Shook Me All Night Long : rock
+117,rock,user4,6.0,Riders on the Storm : rock
+118,rock,user4,1.0,Hells Bells : rock
+119,rock,user4,10.0,Money for Nothing : rock
+120,rock,user5,,Stairway to Heaven : rock
+121,rock,user5,,Bohemian Rhapsody : rock
+122,rock,user5,1.0,Hotel California : rock
+123,rock,user5,10.0,Sweet Child O' Mine : rock
+124,rock,user5,8.0,Smoke on the Water : rock
+125,rock,user5,10.0,Back in Black : rock
+126,rock,user5,9.0,Comfortably Numb : rock
+127,rock,user5,2.0,Free Bird : rock
+128,rock,user5,9.0,Highway to Hell : rock
+129,rock,user5,6.0,Livin' on a Prayer : rock
+130,rock,user5,2.0,Paranoid : rock
+131,rock,user5,5.0,Whole Lotta Love : rock
+132,rock,user5,,Purple Haze : rock
+133,rock,user5,2.0,November Rain : rock
+134,rock,user5,,Layla : rock
+135,rock,user5,1.0,Dream On : rock
+136,rock,user5,2.0,Another Brick in the Wall : rock
+137,rock,user5,2.0,Born to Run : rock
+138,rock,user5,4.0,Wish You Were Here : rock
+139,rock,user5,9.0,Sympathy for the Devil : rock
+140,rock,user5,5.0,Paint It Black : rock
+141,rock,user5,4.0,Don't Stop Believin' : rock
+142,rock,user5,9.0,Hey Jude : rock
+143,rock,user5,8.0,We Will Rock You : rock
+144,rock,user5,,Enter Sandman : rock
+145,rock,user5,3.0,Kashmir : rock
+146,rock,user5,8.0,You Shook Me All Night Long : rock
+147,rock,user5,2.0,Riders on the Storm : rock
+148,rock,user5,6.0,Hells Bells : rock
+149,rock,user5,1.0,Money for Nothing : rock
+150,rock,user6,8.0,Stairway to Heaven : rock
+151,rock,user6,9.0,Bohemian Rhapsody : rock
+152,rock,user6,10.0,Hotel California : rock
+153,rock,user6,1.0,Sweet Child O' Mine : rock
+154,rock,user6,8.0,Smoke on the Water : rock
+155,rock,user6,,Back in Black : rock
+156,rock,user6,6.0,Comfortably Numb : rock
+157,rock,user6,,Free Bird : rock
+158,rock,user6,10.0,Highway to Hell : rock
+159,rock,user6,6.0,Livin' on a Prayer : rock
+160,rock,user6,8.0,Paranoid : rock
+161,rock,user6,7.0,Whole Lotta Love : rock
+162,rock,user6,2.0,Purple Haze : rock
+163,rock,user6,1.0,November Rain : rock
+164,rock,user6,7.0,Layla : rock
+165,rock,user6,2.0,Dream On : rock
+166,rock,user6,1.0,Another Brick in the Wall : rock
+167,rock,user6,7.0,Born to Run : rock
+168,rock,user6,9.0,Wish You Were Here : rock
+169,rock,user6,6.0,Sympathy for the Devil : rock
+170,rock,user6,1.0,Paint It Black : rock
+171,rock,user6,5.0,Don't Stop Believin' : rock
+172,rock,user6,2.0,Hey Jude : rock
+173,rock,user6,9.0,We Will Rock You : rock
+174,rock,user6,,Enter Sandman : rock
+175,rock,user6,,Kashmir : rock
+176,rock,user6,10.0,You Shook Me All Night Long : rock
+177,rock,user6,,Riders on the Storm : rock
+178,rock,user6,2.0,Hells Bells : rock
+179,rock,user6,7.0,Money for Nothing : rock
+180,rock,user7,4.0,Stairway to Heaven : rock
+181,rock,user7,3.0,Bohemian Rhapsody : rock
+182,rock,user7,2.0,Hotel California : rock
+183,rock,user7,4.0,Sweet Child O' Mine : rock
+184,rock,user7,4.0,Smoke on the Water : rock
+185,rock,user7,,Back in Black : rock
+186,rock,user7,9.0,Comfortably Numb : rock
+187,rock,user7,4.0,Free Bird : rock
+188,rock,user7,2.0,Highway to Hell : rock
+189,rock,user7,4.0,Livin' on a Prayer : rock
+190,rock,user7,,Paranoid : rock
+191,rock,user7,1.0,Whole Lotta Love : rock
+192,rock,user7,,Purple Haze : rock
+193,rock,user7,1.0,November Rain : rock
+194,rock,user7,2.0,Layla : rock
+195,rock,user7,2.0,Dream On : rock
+196,rock,user7,5.0,Another Brick in the Wall : rock
+197,rock,user7,4.0,Born to Run : rock
+198,rock,user7,,Wish You Were Here : rock
+199,rock,user7,4.0,Sympathy for the Devil : rock
+200,rock,user7,4.0,Paint It Black : rock
+201,rock,user7,4.0,Don't Stop Believin' : rock
+202,rock,user7,,Hey Jude : rock
+203,rock,user7,3.0,We Will Rock You : rock
+204,rock,user7,7.0,Enter Sandman : rock
+205,rock,user7,7.0,Kashmir : rock
+206,rock,user7,10.0,You Shook Me All Night Long : rock
+207,rock,user7,10.0,Riders on the Storm : rock
+208,rock,user7,9.0,Hells Bells : rock
+209,rock,user7,10.0,Money for Nothing : rock
+210,rock,user8,5.0,Stairway to Heaven : rock
+211,rock,user8,7.0,Bohemian Rhapsody : rock
+212,rock,user8,1.0,Hotel California : rock
+213,rock,user8,3.0,Sweet Child O' Mine : rock
+214,rock,user8,5.0,Smoke on the Water : rock
+215,rock,user8,3.0,Back in Black : rock
+216,rock,user8,5.0,Comfortably Numb : rock
+217,rock,user8,,Free Bird : rock
+218,rock,user8,8.0,Highway to Hell : rock
+219,rock,user8,,Livin' on a Prayer : rock
+220,rock,user8,3.0,Paranoid : rock
+221,rock,user8,9.0,Whole Lotta Love : rock
+222,rock,user8,4.0,Purple Haze : rock
+223,rock,user8,8.0,November Rain : rock
+224,rock,user8,8.0,Layla : rock
+225,rock,user8,2.0,Dream On : rock
+226,rock,user8,9.0,Another Brick in the Wall : rock
+227,rock,user8,,Born to Run : rock
+228,rock,user8,7.0,Wish You Were Here : rock
+229,rock,user8,,Sympathy for the Devil : rock
+230,rock,user8,3.0,Paint It Black : rock
+231,rock,user8,1.0,Don't Stop Believin' : rock
+232,rock,user8,10.0,Hey Jude : rock
+233,rock,user8,,We Will Rock You : rock
+234,rock,user8,6.0,Enter Sandman : rock
+235,rock,user8,1.0,Kashmir : rock
+236,rock,user8,8.0,You Shook Me All Night Long : rock
+237,rock,user8,6.0,Riders on the Storm : rock
+238,rock,user8,2.0,Hells Bells : rock
+239,rock,user8,1.0,Money for Nothing : rock
+240,rock,user9,10.0,Stairway to Heaven : rock
+241,rock,user9,5.0,Bohemian Rhapsody : rock
+242,rock,user9,2.0,Hotel California : rock
+243,rock,user9,2.0,Sweet Child O' Mine : rock
+244,rock,user9,10.0,Smoke on the Water : rock
+245,rock,user9,8.0,Back in Black : rock
+246,rock,user9,2.0,Comfortably Numb : rock
+247,rock,user9,10.0,Free Bird : rock
+248,rock,user9,4.0,Highway to Hell : rock
+249,rock,user9,2.0,Livin' on a Prayer : rock
+250,rock,user9,2.0,Paranoid : rock
+251,rock,user9,9.0,Whole Lotta Love : rock
+252,rock,user9,,Purple Haze : rock
+253,rock,user9,3.0,November Rain : rock
+254,rock,user9,3.0,Layla : rock
+255,rock,user9,,Dream On : rock
+256,rock,user9,6.0,Another Brick in the Wall : rock
+257,rock,user9,2.0,Born to Run : rock
+258,rock,user9,5.0,Wish You Were Here : rock
+259,rock,user9,9.0,Sympathy for the Devil : rock
+260,rock,user9,1.0,Paint It Black : rock
+261,rock,user9,,Don't Stop Believin' : rock
+262,rock,user9,3.0,Hey Jude : rock
+263,rock,user9,3.0,We Will Rock You : rock
+264,rock,user9,3.0,Enter Sandman : rock
+265,rock,user9,2.0,Kashmir : rock
+266,rock,user9,,You Shook Me All Night Long : rock
+267,rock,user9,2.0,Riders on the Storm : rock
+268,rock,user9,10.0,Hells Bells : rock
+269,rock,user9,,Money for Nothing : rock
+270,rock,user10,6.0,Stairway to Heaven : rock
+271,rock,user10,,Bohemian Rhapsody : rock
+272,rock,user10,9.0,Hotel California : rock
+273,rock,user10,4.0,Sweet Child O' Mine : rock
+274,rock,user10,8.0,Smoke on the Water : rock
+275,rock,user10,2.0,Back in Black : rock
+276,rock,user10,,Comfortably Numb : rock
+277,rock,user10,7.0,Free Bird : rock
+278,rock,user10,,Highway to Hell : rock
+279,rock,user10,5.0,Livin' on a Prayer : rock
+280,rock,user10,3.0,Paranoid : rock
+281,rock,user10,,Whole Lotta Love : rock
+282,rock,user10,9.0,Purple Haze : rock
+283,rock,user10,2.0,November Rain : rock
+284,rock,user10,2.0,Layla : rock
+285,rock,user10,7.0,Dream On : rock
+286,rock,user10,1.0,Another Brick in the Wall : rock
+287,rock,user10,10.0,Born to Run : rock
+288,rock,user10,1.0,Wish You Were Here : rock
+289,rock,user10,10.0,Sympathy for the Devil : rock
+290,rock,user10,4.0,Paint It Black : rock
+291,rock,user10,7.0,Don't Stop Believin' : rock
+292,rock,user10,5.0,Hey Jude : rock
+293,rock,user10,4.0,We Will Rock You : rock
+294,rock,user10,3.0,Enter Sandman : rock
+295,rock,user10,1.0,Kashmir : rock
+296,rock,user10,2.0,You Shook Me All Night Long : rock
+297,rock,user10,6.0,Riders on the Storm : rock
+298,rock,user10,4.0,Hells Bells : rock
+299,rock,user10,,Money for Nothing : rock
+0,soul,user1,,Respect : soul
+1,soul,user1,7.0,Superstition : soul
+2,soul,user1,8.0,Ain't No Sunshine : soul
+3,soul,user1,9.0,What's Going On : soul
+4,soul,user1,9.0,I Heard It Through the Grapevine : soul
+5,soul,user1,4.0,Sittin' On The Dock of the Bay : soul
+6,soul,user1,1.0,Let's Stay Together : soul
+7,soul,user1,,I Say a Little Prayer : soul
+8,soul,user1,,Chain of Fools : soul
+9,soul,user1,8.0,Papa's Got a Brand New Bag : soul
+10,soul,user1,8.0,Midnight Train to Georgia : soul
+11,soul,user1,2.0,Ain't No Mountain High Enough : soul
+12,soul,user1,8.0,Soul Man : soul
+13,soul,user1,3.0,When a Man Loves a Woman : soul
+14,soul,user1,3.0,I've Been Loving You Too Long : soul
+15,soul,user1,2.0,Try a Little Tenderness : soul
+16,soul,user1,,You Make Me Feel Like a Natural Woman : soul
+17,soul,user1,,Lean on Me : soul
+18,soul,user1,9.0,Killing Me Softly : soul
+19,soul,user1,10.0,Stand By Me : soul
+20,soul,user1,3.0,"Signed, Sealed, Delivered I'm Yours : soul"
+21,soul,user1,10.0,Georgia on My Mind : soul
+22,soul,user1,2.0,Just the Two of Us : soul
+23,soul,user1,6.0,Sexual Healing : soul
+24,soul,user1,1.0,I Got You (I Feel Good) : soul
+25,soul,user1,10.0,Unchain My Heart : soul
+26,soul,user1,3.0,Knock on Wood : soul
+27,soul,user1,1.0,You Are the Sunshine of My Life : soul
+28,soul,user1,3.0,These Arms of Mine : soul
+29,soul,user1,2.0,Let's Get It On : soul
+30,soul,user2,1.0,Respect : soul
+31,soul,user2,10.0,Superstition : soul
+32,soul,user2,1.0,Ain't No Sunshine : soul
+33,soul,user2,,What's Going On : soul
+34,soul,user2,,I Heard It Through the Grapevine : soul
+35,soul,user2,5.0,Sittin' On The Dock of the Bay : soul
+36,soul,user2,1.0,Let's Stay Together : soul
+37,soul,user2,9.0,I Say a Little Prayer : soul
+38,soul,user2,10.0,Chain of Fools : soul
+39,soul,user2,7.0,Papa's Got a Brand New Bag : soul
+40,soul,user2,7.0,Midnight Train to Georgia : soul
+41,soul,user2,10.0,Ain't No Mountain High Enough : soul
+42,soul,user2,6.0,Soul Man : soul
+43,soul,user2,3.0,When a Man Loves a Woman : soul
+44,soul,user2,3.0,I've Been Loving You Too Long : soul
+45,soul,user2,10.0,Try a Little Tenderness : soul
+46,soul,user2,3.0,You Make Me Feel Like a Natural Woman : soul
+47,soul,user2,9.0,Lean on Me : soul
+48,soul,user2,9.0,Killing Me Softly : soul
+49,soul,user2,,Stand By Me : soul
+50,soul,user2,9.0,"Signed, Sealed, Delivered I'm Yours : soul"
+51,soul,user2,1.0,Georgia on My Mind : soul
+52,soul,user2,5.0,Just the Two of Us : soul
+53,soul,user2,,Sexual Healing : soul
+54,soul,user2,7.0,I Got You (I Feel Good) : soul
+55,soul,user2,8.0,Unchain My Heart : soul
+56,soul,user2,5.0,Knock on Wood : soul
+57,soul,user2,9.0,You Are the Sunshine of My Life : soul
+58,soul,user2,,These Arms of Mine : soul
+59,soul,user2,8.0,Let's Get It On : soul
+60,soul,user3,,Respect : soul
+61,soul,user3,,Superstition : soul
+62,soul,user3,5.0,Ain't No Sunshine : soul
+63,soul,user3,9.0,What's Going On : soul
+64,soul,user3,3.0,I Heard It Through the Grapevine : soul
+65,soul,user3,2.0,Sittin' On The Dock of the Bay : soul
+66,soul,user3,3.0,Let's Stay Together : soul
+67,soul,user3,10.0,I Say a Little Prayer : soul
+68,soul,user3,2.0,Chain of Fools : soul
+69,soul,user3,2.0,Papa's Got a Brand New Bag : soul
+70,soul,user3,7.0,Midnight Train to Georgia : soul
+71,soul,user3,,Ain't No Mountain High Enough : soul
+72,soul,user3,2.0,Soul Man : soul
+73,soul,user3,,When a Man Loves a Woman : soul
+74,soul,user3,10.0,I've Been Loving You Too Long : soul
+75,soul,user3,7.0,Try a Little Tenderness : soul
+76,soul,user3,9.0,You Make Me Feel Like a Natural Woman : soul
+77,soul,user3,5.0,Lean on Me : soul
+78,soul,user3,7.0,Killing Me Softly : soul
+79,soul,user3,7.0,Stand By Me : soul
+80,soul,user3,10.0,"Signed, Sealed, Delivered I'm Yours : soul"
+81,soul,user3,8.0,Georgia on My Mind : soul
+82,soul,user3,,Just the Two of Us : soul
+83,soul,user3,1.0,Sexual Healing : soul
+84,soul,user3,7.0,I Got You (I Feel Good) : soul
+85,soul,user3,1.0,Unchain My Heart : soul
+86,soul,user3,8.0,Knock on Wood : soul
+87,soul,user3,9.0,You Are the Sunshine of My Life : soul
+88,soul,user3,8.0,These Arms of Mine : soul
+89,soul,user3,7.0,Let's Get It On : soul
+90,soul,user4,,Respect : soul
+91,soul,user4,6.0,Superstition : soul
+92,soul,user4,6.0,Ain't No Sunshine : soul
+93,soul,user4,7.0,What's Going On : soul
+94,soul,user4,,I Heard It Through the Grapevine : soul
+95,soul,user4,,Sittin' On The Dock of the Bay : soul
+96,soul,user4,10.0,Let's Stay Together : soul
+97,soul,user4,8.0,I Say a Little Prayer : soul
+98,soul,user4,10.0,Chain of Fools : soul
+99,soul,user4,5.0,Papa's Got a Brand New Bag : soul
+100,soul,user4,3.0,Midnight Train to Georgia : soul
+101,soul,user4,6.0,Ain't No Mountain High Enough : soul
+102,soul,user4,4.0,Soul Man : soul
+103,soul,user4,2.0,When a Man Loves a Woman : soul
+104,soul,user4,5.0,I've Been Loving You Too Long : soul
+105,soul,user4,7.0,Try a Little Tenderness : soul
+106,soul,user4,3.0,You Make Me Feel Like a Natural Woman : soul
+107,soul,user4,3.0,Lean on Me : soul
+108,soul,user4,5.0,Killing Me Softly : soul
+109,soul,user4,10.0,Stand By Me : soul
+110,soul,user4,7.0,"Signed, Sealed, Delivered I'm Yours : soul"
+111,soul,user4,2.0,Georgia on My Mind : soul
+112,soul,user4,10.0,Just the Two of Us : soul
+113,soul,user4,3.0,Sexual Healing : soul
+114,soul,user4,,I Got You (I Feel Good) : soul
+115,soul,user4,3.0,Unchain My Heart : soul
+116,soul,user4,2.0,Knock on Wood : soul
+117,soul,user4,5.0,You Are the Sunshine of My Life : soul
+118,soul,user4,,These Arms of Mine : soul
+119,soul,user4,4.0,Let's Get It On : soul
+120,soul,user5,,Respect : soul
+121,soul,user5,4.0,Superstition : soul
+122,soul,user5,7.0,Ain't No Sunshine : soul
+123,soul,user5,4.0,What's Going On : soul
+124,soul,user5,4.0,I Heard It Through the Grapevine : soul
+125,soul,user5,,Sittin' On The Dock of the Bay : soul
+126,soul,user5,5.0,Let's Stay Together : soul
+127,soul,user5,5.0,I Say a Little Prayer : soul
+128,soul,user5,9.0,Chain of Fools : soul
+129,soul,user5,1.0,Papa's Got a Brand New Bag : soul
+130,soul,user5,6.0,Midnight Train to Georgia : soul
+131,soul,user5,3.0,Ain't No Mountain High Enough : soul
+132,soul,user5,,Soul Man : soul
+133,soul,user5,9.0,When a Man Loves a Woman : soul
+134,soul,user5,2.0,I've Been Loving You Too Long : soul
+135,soul,user5,1.0,Try a Little Tenderness : soul
+136,soul,user5,10.0,You Make Me Feel Like a Natural Woman : soul
+137,soul,user5,10.0,Lean on Me : soul
+138,soul,user5,1.0,Killing Me Softly : soul
+139,soul,user5,10.0,Stand By Me : soul
+140,soul,user5,10.0,"Signed, Sealed, Delivered I'm Yours : soul"
+141,soul,user5,8.0,Georgia on My Mind : soul
+142,soul,user5,2.0,Just the Two of Us : soul
+143,soul,user5,5.0,Sexual Healing : soul
+144,soul,user5,10.0,I Got You (I Feel Good) : soul
+145,soul,user5,,Unchain My Heart : soul
+146,soul,user5,2.0,Knock on Wood : soul
+147,soul,user5,7.0,You Are the Sunshine of My Life : soul
+148,soul,user5,3.0,These Arms of Mine : soul
+149,soul,user5,,Let's Get It On : soul
+150,soul,user6,4.0,Respect : soul
+151,soul,user6,1.0,Superstition : soul
+152,soul,user6,10.0,Ain't No Sunshine : soul
+153,soul,user6,4.0,What's Going On : soul
+154,soul,user6,1.0,I Heard It Through the Grapevine : soul
+155,soul,user6,,Sittin' On The Dock of the Bay : soul
+156,soul,user6,7.0,Let's Stay Together : soul
+157,soul,user6,7.0,I Say a Little Prayer : soul
+158,soul,user6,,Chain of Fools : soul
+159,soul,user6,4.0,Papa's Got a Brand New Bag : soul
+160,soul,user6,,Midnight Train to Georgia : soul
+161,soul,user6,3.0,Ain't No Mountain High Enough : soul
+162,soul,user6,2.0,Soul Man : soul
+163,soul,user6,7.0,When a Man Loves a Woman : soul
+164,soul,user6,10.0,I've Been Loving You Too Long : soul
+165,soul,user6,3.0,Try a Little Tenderness : soul
+166,soul,user6,,You Make Me Feel Like a Natural Woman : soul
+167,soul,user6,4.0,Lean on Me : soul
+168,soul,user6,8.0,Killing Me Softly : soul
+169,soul,user6,2.0,Stand By Me : soul
+170,soul,user6,4.0,"Signed, Sealed, Delivered I'm Yours : soul"
+171,soul,user6,5.0,Georgia on My Mind : soul
+172,soul,user6,,Just the Two of Us : soul
+173,soul,user6,1.0,Sexual Healing : soul
+174,soul,user6,7.0,I Got You (I Feel Good) : soul
+175,soul,user6,9.0,Unchain My Heart : soul
+176,soul,user6,9.0,Knock on Wood : soul
+177,soul,user6,9.0,You Are the Sunshine of My Life : soul
+178,soul,user6,8.0,These Arms of Mine : soul
+179,soul,user6,5.0,Let's Get It On : soul
+180,soul,user7,8.0,Respect : soul
+181,soul,user7,1.0,Superstition : soul
+182,soul,user7,4.0,Ain't No Sunshine : soul
+183,soul,user7,,What's Going On : soul
+184,soul,user7,2.0,I Heard It Through the Grapevine : soul
+185,soul,user7,3.0,Sittin' On The Dock of the Bay : soul
+186,soul,user7,,Let's Stay Together : soul
+187,soul,user7,,I Say a Little Prayer : soul
+188,soul,user7,10.0,Chain of Fools : soul
+189,soul,user7,4.0,Papa's Got a Brand New Bag : soul
+190,soul,user7,5.0,Midnight Train to Georgia : soul
+191,soul,user7,10.0,Ain't No Mountain High Enough : soul
+192,soul,user7,8.0,Soul Man : soul
+193,soul,user7,2.0,When a Man Loves a Woman : soul
+194,soul,user7,2.0,I've Been Loving You Too Long : soul
+195,soul,user7,,Try a Little Tenderness : soul
+196,soul,user7,3.0,You Make Me Feel Like a Natural Woman : soul
+197,soul,user7,1.0,Lean on Me : soul
+198,soul,user7,4.0,Killing Me Softly : soul
+199,soul,user7,10.0,Stand By Me : soul
+200,soul,user7,1.0,"Signed, Sealed, Delivered I'm Yours : soul"
+201,soul,user7,8.0,Georgia on My Mind : soul
+202,soul,user7,,Just the Two of Us : soul
+203,soul,user7,5.0,Sexual Healing : soul
+204,soul,user7,3.0,I Got You (I Feel Good) : soul
+205,soul,user7,10.0,Unchain My Heart : soul
+206,soul,user7,8.0,Knock on Wood : soul
+207,soul,user7,6.0,You Are the Sunshine of My Life : soul
+208,soul,user7,5.0,These Arms of Mine : soul
+209,soul,user7,2.0,Let's Get It On : soul
+210,soul,user8,9.0,Respect : soul
+211,soul,user8,9.0,Superstition : soul
+212,soul,user8,10.0,Ain't No Sunshine : soul
+213,soul,user8,6.0,What's Going On : soul
+214,soul,user8,9.0,I Heard It Through the Grapevine : soul
+215,soul,user8,4.0,Sittin' On The Dock of the Bay : soul
+216,soul,user8,6.0,Let's Stay Together : soul
+217,soul,user8,10.0,I Say a Little Prayer : soul
+218,soul,user8,6.0,Chain of Fools : soul
+219,soul,user8,4.0,Papa's Got a Brand New Bag : soul
+220,soul,user8,8.0,Midnight Train to Georgia : soul
+221,soul,user8,8.0,Ain't No Mountain High Enough : soul
+222,soul,user8,1.0,Soul Man : soul
+223,soul,user8,1.0,When a Man Loves a Woman : soul
+224,soul,user8,7.0,I've Been Loving You Too Long : soul
+225,soul,user8,7.0,Try a Little Tenderness : soul
+226,soul,user8,,You Make Me Feel Like a Natural Woman : soul
+227,soul,user8,,Lean on Me : soul
+228,soul,user8,10.0,Killing Me Softly : soul
+229,soul,user8,,Stand By Me : soul
+230,soul,user8,10.0,"Signed, Sealed, Delivered I'm Yours : soul"
+231,soul,user8,,Georgia on My Mind : soul
+232,soul,user8,5.0,Just the Two of Us : soul
+233,soul,user8,6.0,Sexual Healing : soul
+234,soul,user8,1.0,I Got You (I Feel Good) : soul
+235,soul,user8,,Unchain My Heart : soul
+236,soul,user8,7.0,Knock on Wood : soul
+237,soul,user8,4.0,You Are the Sunshine of My Life : soul
+238,soul,user8,8.0,These Arms of Mine : soul
+239,soul,user8,2.0,Let's Get It On : soul
+240,soul,user9,2.0,Respect : soul
+241,soul,user9,1.0,Superstition : soul
+242,soul,user9,5.0,Ain't No Sunshine : soul
+243,soul,user9,10.0,What's Going On : soul
+244,soul,user9,,I Heard It Through the Grapevine : soul
+245,soul,user9,9.0,Sittin' On The Dock of the Bay : soul
+246,soul,user9,10.0,Let's Stay Together : soul
+247,soul,user9,9.0,I Say a Little Prayer : soul
+248,soul,user9,9.0,Chain of Fools : soul
+249,soul,user9,7.0,Papa's Got a Brand New Bag : soul
+250,soul,user9,3.0,Midnight Train to Georgia : soul
+251,soul,user9,1.0,Ain't No Mountain High Enough : soul
+252,soul,user9,6.0,Soul Man : soul
+253,soul,user9,,When a Man Loves a Woman : soul
+254,soul,user9,5.0,I've Been Loving You Too Long : soul
+255,soul,user9,10.0,Try a Little Tenderness : soul
+256,soul,user9,10.0,You Make Me Feel Like a Natural Woman : soul
+257,soul,user9,6.0,Lean on Me : soul
+258,soul,user9,9.0,Killing Me Softly : soul
+259,soul,user9,2.0,Stand By Me : soul
+260,soul,user9,6.0,"Signed, Sealed, Delivered I'm Yours : soul"
+261,soul,user9,3.0,Georgia on My Mind : soul
+262,soul,user9,,Just the Two of Us : soul
+263,soul,user9,7.0,Sexual Healing : soul
+264,soul,user9,9.0,I Got You (I Feel Good) : soul
+265,soul,user9,3.0,Unchain My Heart : soul
+266,soul,user9,5.0,Knock on Wood : soul
+267,soul,user9,,You Are the Sunshine of My Life : soul
+268,soul,user9,,These Arms of Mine : soul
+269,soul,user9,9.0,Let's Get It On : soul
+270,soul,user10,2.0,Respect : soul
+271,soul,user10,5.0,Superstition : soul
+272,soul,user10,2.0,Ain't No Sunshine : soul
+273,soul,user10,10.0,What's Going On : soul
+274,soul,user10,1.0,I Heard It Through the Grapevine : soul
+275,soul,user10,6.0,Sittin' On The Dock of the Bay : soul
+276,soul,user10,3.0,Let's Stay Together : soul
+277,soul,user10,,I Say a Little Prayer : soul
+278,soul,user10,,Chain of Fools : soul
+279,soul,user10,7.0,Papa's Got a Brand New Bag : soul
+280,soul,user10,5.0,Midnight Train to Georgia : soul
+281,soul,user10,9.0,Ain't No Mountain High Enough : soul
+282,soul,user10,,Soul Man : soul
+283,soul,user10,8.0,When a Man Loves a Woman : soul
+284,soul,user10,9.0,I've Been Loving You Too Long : soul
+285,soul,user10,1.0,Try a Little Tenderness : soul
+286,soul,user10,9.0,You Make Me Feel Like a Natural Woman : soul
+287,soul,user10,4.0,Lean on Me : soul
+288,soul,user10,9.0,Killing Me Softly : soul
+289,soul,user10,10.0,Stand By Me : soul
+290,soul,user10,,"Signed, Sealed, Delivered I'm Yours : soul"
+291,soul,user10,2.0,Georgia on My Mind : soul
+292,soul,user10,10.0,Just the Two of Us : soul
+293,soul,user10,7.0,Sexual Healing : soul
+294,soul,user10,,I Got You (I Feel Good) : soul
+295,soul,user10,10.0,Unchain My Heart : soul
+296,soul,user10,2.0,Knock on Wood : soul
+297,soul,user10,10.0,You Are the Sunshine of My Life : soul
+298,soul,user10,6.0,These Arms of Mine : soul
+299,soul,user10,2.0,Let's Get It On : soul
+0,techno,user1,1.0,Strings of Life : techno
+1,techno,user1,1.0,The Bells : techno
+2,techno,user1,,Acid Tracks : techno
+3,techno,user1,5.0,Energy Flash : techno
+4,techno,user1,7.0,Higher State of Consciousness : techno
+5,techno,user1,6.0,Spastik : techno
+6,techno,user1,,Blue Monday : techno
+7,techno,user1,7.0,"Harder, Better, Faster, Stronger : techno"
+8,techno,user1,6.0,Born Slippy : techno
+9,techno,user1,,Windowlicker : techno
+10,techno,user1,8.0,Rez : techno
+11,techno,user1,5.0,Knights of the Jaguar : techno
+12,techno,user1,,Plastic Dreams : techno
+13,techno,user1,7.0,Voodoo Ray : techno
+14,techno,user1,5.0,Jaguar : techno
+15,techno,user1,2.0,No Good : techno
+16,techno,user1,6.0,Halcyon : techno
+17,techno,user1,10.0,Porcelain : techno
+18,techno,user1,1.0,Go : techno
+19,techno,user1,7.0,Strobe : techno
+20,techno,user1,4.0,Xpander : techno
+21,techno,user1,3.0,Smokebelch II : techno
+22,techno,user1,10.0,Cafe del Mar : techno
+23,techno,user1,4.0,Der Klang der Familie : techno
+24,techno,user1,4.0,Spiral : techno
+25,techno,user1,4.0,Decompression : techno
+26,techno,user1,3.0,Domino : techno
+27,techno,user1,1.0,Higher Power : techno
+28,techno,user1,,Pacific State : techno
+29,techno,user1,3.0,Professional Widow : techno
+30,techno,user2,1.0,Strings of Life : techno
+31,techno,user2,4.0,The Bells : techno
+32,techno,user2,,Acid Tracks : techno
+33,techno,user2,7.0,Energy Flash : techno
+34,techno,user2,2.0,Higher State of Consciousness : techno
+35,techno,user2,5.0,Spastik : techno
+36,techno,user2,5.0,Blue Monday : techno
+37,techno,user2,5.0,"Harder, Better, Faster, Stronger : techno"
+38,techno,user2,6.0,Born Slippy : techno
+39,techno,user2,5.0,Windowlicker : techno
+40,techno,user2,7.0,Rez : techno
+41,techno,user2,4.0,Knights of the Jaguar : techno
+42,techno,user2,1.0,Plastic Dreams : techno
+43,techno,user2,6.0,Voodoo Ray : techno
+44,techno,user2,,Jaguar : techno
+45,techno,user2,4.0,No Good : techno
+46,techno,user2,7.0,Halcyon : techno
+47,techno,user2,3.0,Porcelain : techno
+48,techno,user2,,Go : techno
+49,techno,user2,9.0,Strobe : techno
+50,techno,user2,6.0,Xpander : techno
+51,techno,user2,5.0,Smokebelch II : techno
+52,techno,user2,8.0,Cafe del Mar : techno
+53,techno,user2,,Der Klang der Familie : techno
+54,techno,user2,5.0,Spiral : techno
+55,techno,user2,5.0,Decompression : techno
+56,techno,user2,,Domino : techno
+57,techno,user2,2.0,Higher Power : techno
+58,techno,user2,9.0,Pacific State : techno
+59,techno,user2,8.0,Professional Widow : techno
+60,techno,user3,1.0,Strings of Life : techno
+61,techno,user3,,The Bells : techno
+62,techno,user3,,Acid Tracks : techno
+63,techno,user3,2.0,Energy Flash : techno
+64,techno,user3,1.0,Higher State of Consciousness : techno
+65,techno,user3,5.0,Spastik : techno
+66,techno,user3,5.0,Blue Monday : techno
+67,techno,user3,2.0,"Harder, Better, Faster, Stronger : techno"
+68,techno,user3,6.0,Born Slippy : techno
+69,techno,user3,7.0,Windowlicker : techno
+70,techno,user3,4.0,Rez : techno
+71,techno,user3,9.0,Knights of the Jaguar : techno
+72,techno,user3,3.0,Plastic Dreams : techno
+73,techno,user3,9.0,Voodoo Ray : techno
+74,techno,user3,7.0,Jaguar : techno
+75,techno,user3,7.0,No Good : techno
+76,techno,user3,,Halcyon : techno
+77,techno,user3,5.0,Porcelain : techno
+78,techno,user3,5.0,Go : techno
+79,techno,user3,8.0,Strobe : techno
+80,techno,user3,1.0,Xpander : techno
+81,techno,user3,7.0,Smokebelch II : techno
+82,techno,user3,5.0,Cafe del Mar : techno
+83,techno,user3,4.0,Der Klang der Familie : techno
+84,techno,user3,1.0,Spiral : techno
+85,techno,user3,2.0,Decompression : techno
+86,techno,user3,4.0,Domino : techno
+87,techno,user3,,Higher Power : techno
+88,techno,user3,10.0,Pacific State : techno
+89,techno,user3,,Professional Widow : techno
+90,techno,user4,9.0,Strings of Life : techno
+91,techno,user4,1.0,The Bells : techno
+92,techno,user4,8.0,Acid Tracks : techno
+93,techno,user4,,Energy Flash : techno
+94,techno,user4,5.0,Higher State of Consciousness : techno
+95,techno,user4,5.0,Spastik : techno
+96,techno,user4,10.0,Blue Monday : techno
+97,techno,user4,8.0,"Harder, Better, Faster, Stronger : techno"
+98,techno,user4,8.0,Born Slippy : techno
+99,techno,user4,1.0,Windowlicker : techno
+100,techno,user4,9.0,Rez : techno
+101,techno,user4,8.0,Knights of the Jaguar : techno
+102,techno,user4,7.0,Plastic Dreams : techno
+103,techno,user4,8.0,Voodoo Ray : techno
+104,techno,user4,4.0,Jaguar : techno
+105,techno,user4,10.0,No Good : techno
+106,techno,user4,6.0,Halcyon : techno
+107,techno,user4,3.0,Porcelain : techno
+108,techno,user4,2.0,Go : techno
+109,techno,user4,4.0,Strobe : techno
+110,techno,user4,8.0,Xpander : techno
+111,techno,user4,,Smokebelch II : techno
+112,techno,user4,1.0,Cafe del Mar : techno
+113,techno,user4,,Der Klang der Familie : techno
+114,techno,user4,,Spiral : techno
+115,techno,user4,8.0,Decompression : techno
+116,techno,user4,6.0,Domino : techno
+117,techno,user4,,Higher Power : techno
+118,techno,user4,4.0,Pacific State : techno
+119,techno,user4,1.0,Professional Widow : techno
+120,techno,user5,7.0,Strings of Life : techno
+121,techno,user5,6.0,The Bells : techno
+122,techno,user5,,Acid Tracks : techno
+123,techno,user5,9.0,Energy Flash : techno
+124,techno,user5,5.0,Higher State of Consciousness : techno
+125,techno,user5,4.0,Spastik : techno
+126,techno,user5,4.0,Blue Monday : techno
+127,techno,user5,8.0,"Harder, Better, Faster, Stronger : techno"
+128,techno,user5,,Born Slippy : techno
+129,techno,user5,6.0,Windowlicker : techno
+130,techno,user5,1.0,Rez : techno
+131,techno,user5,8.0,Knights of the Jaguar : techno
+132,techno,user5,8.0,Plastic Dreams : techno
+133,techno,user5,9.0,Voodoo Ray : techno
+134,techno,user5,8.0,Jaguar : techno
+135,techno,user5,1.0,No Good : techno
+136,techno,user5,2.0,Halcyon : techno
+137,techno,user5,,Porcelain : techno
+138,techno,user5,3.0,Go : techno
+139,techno,user5,10.0,Strobe : techno
+140,techno,user5,7.0,Xpander : techno
+141,techno,user5,,Smokebelch II : techno
+142,techno,user5,6.0,Cafe del Mar : techno
+143,techno,user5,5.0,Der Klang der Familie : techno
+144,techno,user5,3.0,Spiral : techno
+145,techno,user5,4.0,Decompression : techno
+146,techno,user5,6.0,Domino : techno
+147,techno,user5,6.0,Higher Power : techno
+148,techno,user5,,Pacific State : techno
+149,techno,user5,6.0,Professional Widow : techno
+150,techno,user6,5.0,Strings of Life : techno
+151,techno,user6,10.0,The Bells : techno
+152,techno,user6,,Acid Tracks : techno
+153,techno,user6,9.0,Energy Flash : techno
+154,techno,user6,,Higher State of Consciousness : techno
+155,techno,user6,,Spastik : techno
+156,techno,user6,3.0,Blue Monday : techno
+157,techno,user6,2.0,"Harder, Better, Faster, Stronger : techno"
+158,techno,user6,8.0,Born Slippy : techno
+159,techno,user6,6.0,Windowlicker : techno
+160,techno,user6,6.0,Rez : techno
+161,techno,user6,10.0,Knights of the Jaguar : techno
+162,techno,user6,5.0,Plastic Dreams : techno
+163,techno,user6,,Voodoo Ray : techno
+164,techno,user6,9.0,Jaguar : techno
+165,techno,user6,2.0,No Good : techno
+166,techno,user6,,Halcyon : techno
+167,techno,user6,3.0,Porcelain : techno
+168,techno,user6,3.0,Go : techno
+169,techno,user6,6.0,Strobe : techno
+170,techno,user6,1.0,Xpander : techno
+171,techno,user6,8.0,Smokebelch II : techno
+172,techno,user6,10.0,Cafe del Mar : techno
+173,techno,user6,6.0,Der Klang der Familie : techno
+174,techno,user6,10.0,Spiral : techno
+175,techno,user6,4.0,Decompression : techno
+176,techno,user6,1.0,Domino : techno
+177,techno,user6,2.0,Higher Power : techno
+178,techno,user6,8.0,Pacific State : techno
+179,techno,user6,9.0,Professional Widow : techno
+180,techno,user7,5.0,Strings of Life : techno
+181,techno,user7,10.0,The Bells : techno
+182,techno,user7,,Acid Tracks : techno
+183,techno,user7,3.0,Energy Flash : techno
+184,techno,user7,2.0,Higher State of Consciousness : techno
+185,techno,user7,,Spastik : techno
+186,techno,user7,5.0,Blue Monday : techno
+187,techno,user7,4.0,"Harder, Better, Faster, Stronger : techno"
+188,techno,user7,9.0,Born Slippy : techno
+189,techno,user7,2.0,Windowlicker : techno
+190,techno,user7,7.0,Rez : techno
+191,techno,user7,6.0,Knights of the Jaguar : techno
+192,techno,user7,4.0,Plastic Dreams : techno
+193,techno,user7,5.0,Voodoo Ray : techno
+194,techno,user7,10.0,Jaguar : techno
+195,techno,user7,2.0,No Good : techno
+196,techno,user7,6.0,Halcyon : techno
+197,techno,user7,4.0,Porcelain : techno
+198,techno,user7,,Go : techno
+199,techno,user7,,Strobe : techno
+200,techno,user7,1.0,Xpander : techno
+201,techno,user7,10.0,Smokebelch II : techno
+202,techno,user7,6.0,Cafe del Mar : techno
+203,techno,user7,10.0,Der Klang der Familie : techno
+204,techno,user7,6.0,Spiral : techno
+205,techno,user7,,Decompression : techno
+206,techno,user7,1.0,Domino : techno
+207,techno,user7,7.0,Higher Power : techno
+208,techno,user7,8.0,Pacific State : techno
+209,techno,user7,2.0,Professional Widow : techno
+210,techno,user8,1.0,Strings of Life : techno
+211,techno,user8,7.0,The Bells : techno
+212,techno,user8,8.0,Acid Tracks : techno
+213,techno,user8,9.0,Energy Flash : techno
+214,techno,user8,4.0,Higher State of Consciousness : techno
+215,techno,user8,4.0,Spastik : techno
+216,techno,user8,9.0,Blue Monday : techno
+217,techno,user8,,"Harder, Better, Faster, Stronger : techno"
+218,techno,user8,,Born Slippy : techno
+219,techno,user8,1.0,Windowlicker : techno
+220,techno,user8,7.0,Rez : techno
+221,techno,user8,,Knights of the Jaguar : techno
+222,techno,user8,4.0,Plastic Dreams : techno
+223,techno,user8,7.0,Voodoo Ray : techno
+224,techno,user8,4.0,Jaguar : techno
+225,techno,user8,9.0,No Good : techno
+226,techno,user8,6.0,Halcyon : techno
+227,techno,user8,2.0,Porcelain : techno
+228,techno,user8,9.0,Go : techno
+229,techno,user8,,Strobe : techno
+230,techno,user8,2.0,Xpander : techno
+231,techno,user8,8.0,Smokebelch II : techno
+232,techno,user8,5.0,Cafe del Mar : techno
+233,techno,user8,3.0,Der Klang der Familie : techno
+234,techno,user8,1.0,Spiral : techno
+235,techno,user8,,Decompression : techno
+236,techno,user8,9.0,Domino : techno
+237,techno,user8,1.0,Higher Power : techno
+238,techno,user8,7.0,Pacific State : techno
+239,techno,user8,9.0,Professional Widow : techno
+240,techno,user9,6.0,Strings of Life : techno
+241,techno,user9,9.0,The Bells : techno
+242,techno,user9,,Acid Tracks : techno
+243,techno,user9,,Energy Flash : techno
+244,techno,user9,4.0,Higher State of Consciousness : techno
+245,techno,user9,10.0,Spastik : techno
+246,techno,user9,3.0,Blue Monday : techno
+247,techno,user9,4.0,"Harder, Better, Faster, Stronger : techno"
+248,techno,user9,2.0,Born Slippy : techno
+249,techno,user9,1.0,Windowlicker : techno
+250,techno,user9,2.0,Rez : techno
+251,techno,user9,4.0,Knights of the Jaguar : techno
+252,techno,user9,10.0,Plastic Dreams : techno
+253,techno,user9,8.0,Voodoo Ray : techno
+254,techno,user9,4.0,Jaguar : techno
+255,techno,user9,,No Good : techno
+256,techno,user9,9.0,Halcyon : techno
+257,techno,user9,2.0,Porcelain : techno
+258,techno,user9,8.0,Go : techno
+259,techno,user9,4.0,Strobe : techno
+260,techno,user9,7.0,Xpander : techno
+261,techno,user9,9.0,Smokebelch II : techno
+262,techno,user9,10.0,Cafe del Mar : techno
+263,techno,user9,,Der Klang der Familie : techno
+264,techno,user9,6.0,Spiral : techno
+265,techno,user9,4.0,Decompression : techno
+266,techno,user9,10.0,Domino : techno
+267,techno,user9,6.0,Higher Power : techno
+268,techno,user9,7.0,Pacific State : techno
+269,techno,user9,,Professional Widow : techno
+270,techno,user10,,Strings of Life : techno
+271,techno,user10,1.0,The Bells : techno
+272,techno,user10,,Acid Tracks : techno
+273,techno,user10,4.0,Energy Flash : techno
+274,techno,user10,10.0,Higher State of Consciousness : techno
+275,techno,user10,1.0,Spastik : techno
+276,techno,user10,,Blue Monday : techno
+277,techno,user10,9.0,"Harder, Better, Faster, Stronger : techno"
+278,techno,user10,2.0,Born Slippy : techno
+279,techno,user10,5.0,Windowlicker : techno
+280,techno,user10,7.0,Rez : techno
+281,techno,user10,,Knights of the Jaguar : techno
+282,techno,user10,9.0,Plastic Dreams : techno
+283,techno,user10,1.0,Voodoo Ray : techno
+284,techno,user10,6.0,Jaguar : techno
+285,techno,user10,4.0,No Good : techno
+286,techno,user10,7.0,Halcyon : techno
+287,techno,user10,10.0,Porcelain : techno
+288,techno,user10,3.0,Go : techno
+289,techno,user10,9.0,Strobe : techno
+290,techno,user10,8.0,Xpander : techno
+291,techno,user10,2.0,Smokebelch II : techno
+292,techno,user10,5.0,Cafe del Mar : techno
+293,techno,user10,4.0,Der Klang der Familie : techno
+294,techno,user10,,Spiral : techno
+295,techno,user10,10.0,Decompression : techno
+296,techno,user10,9.0,Domino : techno
+297,techno,user10,10.0,Higher Power : techno
+298,techno,user10,2.0,Pacific State : techno
+299,techno,user10,9.0,Professional Widow : techno
