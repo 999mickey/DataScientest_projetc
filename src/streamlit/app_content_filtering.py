@@ -300,7 +300,7 @@ if page == pages[3]:
                 outputdf["artists"] = ArtistName
                 outputdf["song_name"] = SongName
                 outputdf["distance"] = Distance
-                print(outputdf.head(num0))
+                print(outputdf.head(num))
                 st.write('Chanson le splus proches :')                    
                 st.dataframe(outputdf.head(10))    
                             
