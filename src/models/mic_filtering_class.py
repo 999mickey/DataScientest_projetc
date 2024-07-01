@@ -93,38 +93,58 @@ class mic_base_filter():
         print("type(artist_name) = ",type(artist_name) ,"  artist_name = ",artist_name )
         artist_lower = artist_name.lower()
         df = self.data_frame
-        #df = pd.DataFrame()
-        df[self.artist_key_name] = self.data_frame[self.artist_key_name].str.lower() 
-        print("-----------------------------------")
-        #df.info()
-        #print(df.head())
-        
-        #toberemvoed
-        print("artist_lower = ",artist_lower)
-        #condition = (df.str.startswith(artist_lower) )#ok              
-        condition = (df[self.artist_key_name].str.contains(artist_lower) )#ok                    
-        print(condition)
-        
+        df["artistlower"] = self.data_frame[self.artist_key_name].str.lower() 
+        condition = (df['artistlower'].str.contains(artist_lower) )#ok                    
 
         ldf = df[condition][[self.artist_key_name]]
-        print("-------------",len(ldf))
-        
-        #ldf.to_csv("dumptorem.csv")
-        #ldf = df[condition][[self.artist_key_name]]
+        ldf.drop_duplicates(subset= [self.artist_key_name], inplace=True)
+        print("-----------after drop--",len(ldf))
         retval = []
+        for name in ldf[self.artist_key_name].unique():
+            
+            retval.append(name)
         
-        for val in ldf[self.artist_key_name].unique():
-            print("type(val)=",type(val) ,"  val=====",val)
-            val = val.replace("['", '')
-            val = val.replace("']", '')
-            retval.append(val)
-        print("len(retval) = ",len(retval))
-        print(retval)
-        exit()
-        #return ldf[self.artist_key_name].unique()
         return retval
-        #return self.data_frame[condition][[self.artist_key_name]].nunique()
-        #return self.data_frame[condition][[self.artist_key_name]].unique()
+        
+
+    def get_song_closedto(self,song_name):
+        print("        get_song_closedto [",song_name,"] ")
+        song_lower = song_name.lower()
+        df = self.data_frame
+        df["songlower"] = self.data_frame[self.item_key_name].str.lower() 
+        condition = (df['songlower'].str.contains(song_lower) )#ok                    
+
+        ldf = df[condition][[self.item_key_name]]
+        print(len(df))
+        ldf.drop_duplicates(subset= [self.item_key_name], inplace=True)
+        print("-----------after drop--",len(ldf))
+        retval = []
+        for name in ldf[self.item_key_name].unique():
+            print("name = ")
+            print(name)
+            retval.append(name)
+        
+        return retval
+        
+    def get_artist_song_closedto(self,artist_name,song_name):
+        print("        get_song_closedto [",song_name,"] ")
+        song_lower = song_name.lower()
+        df = self.data_frame[self.data_frame[self.artist_key_name] == artist_name]
+        df["songlower"] = self.data_frame[self.item_key_name].str.lower() 
+        condition = (df['songlower'].str.contains(song_lower) )#ok                    
+
+        ldf = df[condition][[self.item_key_name]]
+        print(len(df))
+        ldf.drop_duplicates(subset= [self.item_key_name], inplace=True)
+        print("-----------after drop--",len(ldf))
+        retval = []
+        for name in ldf[self.item_key_name].unique():
+            print("name = ")
+            print(name)
+            retval.append(name)
+        
+        return retval
+    
 
     def get_tracks_of_artist(self,artist_name):
         print("************************* get_tracks_of_artist(",artist_name,") **********************")
@@ -411,7 +431,7 @@ class mic_content_filtering( mic_base_filter):
         self.df_normalized = pd.DataFrame()
 
     def normalize_data(self)    :        
-        print('*********************** normalize_data ******************')
+        #print('*********************** normalize_data ******************')
         
         self.data_frame[self.artist_key_name] = self.data_frame[self.artist_key_name].map(lambda x: x.lstrip('[').rstrip(']'))
 
@@ -515,7 +535,7 @@ class mic_collaborativ_filtering(mic_base_filter ):
         
         # Convertir la matrice de notations 'self.matrice_pivot' en une matrice creuse 'sparse_ratings'.
         self.sparse_ratings = csr_matrix(self.matrice_pivot)        
-        print(self.sparse_ratings)
+        #print(self.sparse_ratings)
         """
         note
             content--        c1                  c2             c3              ... 
@@ -710,15 +730,30 @@ class mic_collaborativ_filtering(mic_base_filter ):
     
 class mic_hybrid_filtering(mic_base_filter):
     def __init__(self):
-        print('*****************mic_hybrid_filtering __init()__ *************************')
+        #print('*****************mic_hybrid_filtering __init()__ *************************')
         mic_base_filter.__init__(self)
         self.best_params_predictor = {}
+        self.best_scor ={}
         self.data = any
         
     def set_data(self, file_name):
         super().set_data(file_name)
         self.print_vars()
         
+        self.generate_dateset_autofold()
+        """min_rating = self.data_frame[self.target_key_name].min()
+        max_rating = self.data_frame[self.target_key_name].max()
+
+        print("min_rating = ",min_rating)
+        print("max_rating = ",max_rating)
+
+        reader = Reader(rating_scale=(min_rating, max_rating))
+        self.data = Dataset.load_from_df(self.data_frame[[self.user_key_name,
+                                                                 self.item_key_name,
+                                                                  self.target_key_name]], reader)
+        print(self.data_frame.dtypes)"""
+        #exit()
+    def generate_dateset_autofold(self):
         min_rating = self.data_frame[self.target_key_name].min()
         max_rating = self.data_frame[self.target_key_name].max()
 
@@ -729,8 +764,6 @@ class mic_hybrid_filtering(mic_base_filter):
         self.data = Dataset.load_from_df(self.data_frame[[self.user_key_name,
                                                                  self.item_key_name,
                                                                   self.target_key_name]], reader)
-        print(self.data_frame.dtypes)
-        #exit()
 
     def predictor_ajustement(self,predictor,param_search):    
         results = cross_validate(predictor, self.data, measures=['RMSE', 'MAE'], cv=10, verbose=True)
@@ -749,6 +782,7 @@ class mic_hybrid_filtering(mic_base_filter):
         #self.best_params_predictor = gs.best_params['rmse']['n_factors']
         #self.best_params_predictor = gs.best_params['rmse']['n_epochs']
         self.best_params_predictor = gs.best_params['rmse']
+        self.best_scor = gs.best_score['rmse']
         return self.best_params_predictor
     def compute_antitraintest(self,user_id):
                 # Récupération de la liste des morceaux

@@ -148,12 +148,8 @@ ret.head(number_of_line_todump).to_csv(outcsv_path+filename)
 
 #################################################
 print("User proches :\n",simlilar_users)
-
-
 closestUserId = simlilar_users.index[0]
 print("closestUserId = \n",closestUserId)
-
-
 print(myfilter.get_user_description(closestUserId))
 
 print(myfilter.get_user_description(closestUserId))

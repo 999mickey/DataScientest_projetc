@@ -20,6 +20,7 @@ input_variables_setter(file_name,myFilter)
 myFilter.set_data(input_path + file_name)
 myFilter.normalize_data()
 myFilter.print_vars()
+myFilter.data_frame.info()
 #exit()
 song_name = "put a s"
 artist_name = "nina sim"
@@ -28,13 +29,25 @@ artist_name = "nina sim"
 song_name = "give it"
 artist_name = "red hot"
 
-#artist_list = myFilter.get_artist_closedto(artist_name)
+artist_list = myFilter.get_artist_closedto(artist_name)
 
-#print(artist_list)
-#exit()
+print(artist_list)
 
-ret = myFilter.get_tracks_with_name(song_name)
-print(myFilter.get_tracks_of_artist(artist_name))
+song_list = myFilter.get_song_closedto(song_name)
+print("song_list = ")
+print(song_list)
+
+artist_name = 'Red Hot Chili Peppers'
+song_name = 'Give It Away'
+
+song_list = myFilter.get_artist_song_closedto(artist_name,'give it')
+print('song list')
+print(song_list)
+
+#ret = myFilter.get_tracks_with_name(song_name)
+#print(myFilter.get_tracks_of_artist(artist_name))
+
+
 
 songnum = myFilter.get_track_num_of_artist(artist_name,song_name)
 print("song num = ",songnum)

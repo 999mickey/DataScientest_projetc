@@ -23,7 +23,7 @@ file_name = "simulationcurrent.csv"
 
 #file_name = "simulation5-10.csv"
 #file_name = "simulation3-5.csv"
-#file_name = "ratings_flrd.csv"
+file_name = "ratings_flrd.csv"
 myfilter = mic_hybrid_filtering()
 input_variables_setter(file_name,myfilter)
 myfilter.set_data(input_path+file_name)
@@ -47,7 +47,8 @@ ret = myfilter.get_random_row_from('hashtag',global_hashtag)
 ############################'simulation5-10.csv'
 ##################################################
 myfilter. display_tracks_and_users_num()
-#choix de l'utilisateur 
+#choix 
+# de l'utilisateur 
 userId1 = myfilter.get_random_user_id()
 #userId1 = 'user0'
 userId1 = myfilter.default_user
@@ -64,7 +65,7 @@ ret = myfilter.predictor_ajustement(predictor,param_grid)
 print("paramètres optimaux pour Normal Pred")
 print(ret)"""
 #print("myfilter.best_params_predictor = \n",myfilter.best_params_predictor)
-print("++++++++++++++Predictions NormalPredictor() pour l 'utilisateur [",userId1,"]")
+"""print("++++++++++++++Predictions NormalPredictor() pour l 'utilisateur [",userId1,"]")
 predictor = NormalPredictor(**myfilter.best_params_predictor)
 
 pred = myfilter.predict(userId1,predictor,5) 
@@ -79,15 +80,27 @@ print("++++++++++++++Fin des predictions NormalPredictor() pour l 'utilisateur [
 #"""
 #######################################SVD
 from surprise import SVD
-"""predictor = SVD()
-param_grid = {'n_factors': [100,150],
+predictor = SVD()
+"""param_grid = {'n_factors': [100,150],
               'n_epochs': [20,25,30],
               'lr_all':[0.005,0.01,0.1],
               'reg_all':[0.02,0.05,0.1]}
+"""
+param_grid = {'n_factors': [10,15],
+                        'n_epochs': [20,25],
+                        'lr_all':[0.005,0.1],
+                        'reg_all':[0.02,0.1]}
 
 ret = myfilter.predictor_ajustement(predictor,param_grid)
 print("paramètres optimaux pour Normal Pred")
-print(ret)"""
+print(ret)
+
+nfactor = ret["n_factors"]
+nepochs = ret["n_epochs"]
+lrall = ret["lr_all"]
+regall = ret["reg_all"]
+
+
 print("++++++++++++++Predictions SVD() pour l 'utilisateur [",userId1,"]  ==>")
 #predictor = SVD()
 predictor = SVD(**myfilter.best_params_predictor)
