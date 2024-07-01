@@ -13,7 +13,7 @@ import json
 sys.path.append(os.path.realpath('..'))
 
 from models.mic_filtering_class import  mic_content_filtering ,mic_base_filter , mic_hybrid_filtering, mic_collaborativ_filtering
-from input_variables_setter import input_variables_setter , list_files_recursive
+from input_variables_setter import input_variables_setter , list_files_recursive 
 from features.mic_data_selection import mic_data_selection
 from visualization.visualize import mic_vizualizer
 from fire_state import create_store, form_update , set_state , get_state
@@ -22,7 +22,7 @@ from surprise import SVD
 from surprise import NormalPredictor
 
 ###spéciifc display
-from display_user_selection import display_user_selection , display_nb_pres_selection,display_predictors
+from display_user_selection import display_user_selection , display_nb_pres_selection,display_predictors , display_nb_pres
 
 content_path = '../../Data/'
 
@@ -284,7 +284,9 @@ if page == pages[3]:
                 st.text(str(ltext))    
                 #print("my_content_filter.artist_key_name =",my_content_filter.artist_key_name)
                 #print(my_content_filter.data_frame[my_content_filter.artist_key_name].head(10))
-                num = display_nb_pres(10)
+                #num = display_nb_pres(10)
+                num = 10
+
                         
                 songnum = my_content_filter.get_track_num_of_artist(true_artist_name,true_song_name)                
                 
@@ -348,6 +350,7 @@ if page == pages[4] :
                 st.text("Prédiction item :")
                 reco_item = my_collaborativ_filtering.pred_item( k_close_param,userId,npreditem).sort_values(ascending=False).head(npreditem)
                 st.dataframe(reco_item)    
+
 if page == pages[5] : 
     if my_content_filter.user_key_name     == '':
         st.write("### Filtrage hybride avec ",str(current_filename), "impossible (valeurs utilisateur absentes )" )
