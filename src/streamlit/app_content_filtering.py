@@ -136,6 +136,7 @@ def load_data(name):
     input_variables_setter(name,my_content_filter)
     input_variables_setter(name,my_collaborativ_filtering)
     input_variables_setter(name,my_hybrid_filtering)
+        
     
     with st.spinner('lecture des données...'):
         df = pd.read_csv(content_path + name)
@@ -154,7 +155,7 @@ def load_data(name):
         #init()
         set_state(slot, ("file_name", name))
 
-    
+        return df
     return df
 
 current_filename = get_state(slot,"file_name")
@@ -180,7 +181,13 @@ if page == pages[0] :
 if page == pages[1] : 
     st.write("### Choisir des données")
     print("### Choisir des données")
-    datas=["merge.csv","data.csv","simulation.csv","simulationcurrent.csv"]
+    uploaded_file = st.file_uploader("Choose a file")
+    if uploaded_file is not None:
+        df = pd.read_csv(uploaded_file)
+        st.text("Head()")
+        st.dataframe(df.head())
+    
+    _="""datas=["merge.csv","data.csv","simulation.csv","simulationcurrent.csv"]
     #datas = list_files_recursive(content_path)
     datas.insert(0,'')
     
@@ -206,7 +213,7 @@ if page == pages[1] :
        
     else :
         df = my_data.data_frame    
-
+    """
 if page == pages[2] :
     st.write("### Visualisation des données ",str(current_filename))
     if current_filename != '':
