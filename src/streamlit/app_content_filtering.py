@@ -163,7 +163,7 @@ df = pd.DataFrame()
 print("Projet de Recommandation8 Musicale avec ["+str(current_filename)+"]")
 
 pages=["Intro","Choisir les données", "Visualization des données", "Filtrage Contenu","Filtrage Memoire ","Filtrage Hybride "]
-st.title("Projet de Recommandation Musicale avec ["+str(current_filename)+"]")
+st.title("Projet de Recommandation8 Musicale avec ["+str(current_filename)+"]")
 st.sidebar.title("Fichier selectionné : "+current_filename)
 
 page=st.sidebar.radio("Aller vers", pages)
