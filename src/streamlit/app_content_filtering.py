@@ -10,9 +10,12 @@ import time
 import sys,os
 import json
 
-sys.path.append(os.path.realpath('..'))
+#sys.path.append(os.path.realpath('..'))
+sys.path.append(os.path.join(os.path.dirname(__file__), '..', 'models'))
+sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
 
-from models.mic_filtering_class import  mic_content_filtering ,mic_base_filter , mic_hybrid_filtering, mic_collaborativ_filtering
+#from models.mic_filtering_class import  mic_content_filtering ,mic_base_filter , mic_hybrid_filtering, mic_collaborativ_filtering
+from mic_filtering_class import  mic_content_filtering ,mic_base_filter , mic_hybrid_filtering, mic_collaborativ_filtering
 from input_variables_setter import input_variables_setter , list_files_recursive 
 from features.mic_data_selection import mic_data_selection
 from visualization.visualize import mic_vizualizer
@@ -21,8 +24,12 @@ from fire_state import create_store, form_update , set_state , get_state
 from surprise import SVD
 from surprise import NormalPredictor
 
+
+
 ###spéciifc display
 from display_user_selection import display_user_selection , display_nb_pres_selection,display_predictors , display_nb_pres
+
+print("os.getcwd() =-> ",os.getcwd())
 
 content_path = '../../Data/'
 
