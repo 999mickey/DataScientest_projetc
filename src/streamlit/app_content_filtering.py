@@ -13,7 +13,7 @@ import json
 #sys.path.append(os.path.realpath('..'))
 sys.path.append(os.path.join(os.path.dirname(__file__), '..', 'models'))
 sys.path.append(os.path.join(os.path.dirname(__file__), '..',''))
-sys.path.append(os.path.join(os.path.dirname(__file__), '../../','Data'))
+sys.path.append(os.path.join(os.path.dirname(__file__), '../..','Data'))
 
 #from models.mic_filtering_class import  mic_content_filtering ,mic_base_filter , mic_hybrid_filtering, mic_collaborativ_filtering
 from mic_filtering_class import  mic_content_filtering ,mic_base_filter , mic_hybrid_filtering, mic_collaborativ_filtering
@@ -32,7 +32,8 @@ from display_user_selection import display_user_selection , display_nb_pres_sele
 
 print("os.getcwd() =-> ",os.getcwd())
 
-content_path = '../../Data/'
+content_path = '../../Data'
+#content_path = ''
 
 slot = "home_page"
 
