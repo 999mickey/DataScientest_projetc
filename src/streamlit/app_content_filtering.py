@@ -12,7 +12,7 @@ import json
 
 #sys.path.append(os.path.realpath('..'))
 sys.path.append(os.path.join(os.path.dirname(__file__), '..', 'models'))
-sys.path.append(os.path.join(os.path.dirname(__file__), '..','./'))
+sys.path.append(os.path.join(os.path.dirname(__file__), '..',''))
 
 #from models.mic_filtering_class import  mic_content_filtering ,mic_base_filter , mic_hybrid_filtering, mic_collaborativ_filtering
 from mic_filtering_class import  mic_content_filtering ,mic_base_filter , mic_hybrid_filtering, mic_collaborativ_filtering
