@@ -34,7 +34,7 @@ print("os.getcwd() =-> ",os.getcwd())
 
 #
 # content_path = '../../Data'
-content_path = 'Data/'
+content_path = './Data/'
 
 
 slot = "home_page"

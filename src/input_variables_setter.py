@@ -80,8 +80,11 @@ def get_only_file_name(path):
     return retval
 
 def list_files_recursive(path='.'):
+    print("list_files_recursivepath = ",path)
+    print("os.path.abspath(__file__) = ",os.path.abspath(__file__))
     listFiles = []
     if os.path.isdir(path):
+        print("path = ",path)
         for entry in os.listdir(path):
             full_path = os.path.join(path, entry)
             if os.path.isdir(full_path):
