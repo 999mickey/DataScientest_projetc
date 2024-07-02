@@ -160,7 +160,7 @@ def load_data(name):
 current_filename = get_state(slot,"file_name")
 df = pd.DataFrame()
 
-print("Projet de Recommandation Musicale avec ["+str(current_filename)+"]")
+print("Projet de Recommandation8 Musicale avec ["+str(current_filename)+"]")
 
 pages=["Intro","Choisir les données", "Visualization des données", "Filtrage Contenu","Filtrage Memoire ","Filtrage Hybride "]
 st.title("Projet de Recommandation Musicale avec ["+str(current_filename)+"]")
