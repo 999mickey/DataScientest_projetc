@@ -13,7 +13,6 @@ import json
 #sys.path.append(os.path.realpath('..'))
 sys.path.append(os.path.join(os.path.dirname(__file__), '..', 'models'))
 sys.path.append(os.path.join(os.path.dirname(__file__), '..',''))
-sys.path.append(os.path.join(os.path.dirname(__file__), '../..','Data'))
 
 #from models.mic_filtering_class import  mic_content_filtering ,mic_base_filter , mic_hybrid_filtering, mic_collaborativ_filtering
 from mic_filtering_class import  mic_content_filtering ,mic_base_filter , mic_hybrid_filtering, mic_collaborativ_filtering
@@ -32,8 +31,11 @@ from display_user_selection import display_user_selection , display_nb_pres_sele
 
 print("os.getcwd() =-> ",os.getcwd())
 
-content_path = '../../Data'
-#content_path = ''
+
+#
+# content_path = '../../Data'
+content_path = 'Data/'
+
 
 slot = "home_page"
 
@@ -178,8 +180,8 @@ if page == pages[0] :
 if page == pages[1] : 
     st.write("### Choisir des données")
     print("### Choisir des données")
-    datas=["","merge.csv","data.csv","simulation.csv","simulationcurrent.csv"]
-    datas = list_files_recursive(content_path)
+    datas=["merge.csv","data.csv","simulation.csv","simulationcurrent.csv"]
+    #datas = list_files_recursive(content_path)
     datas.insert(0,'')
     
     option = st.selectbox('Choix des données', datas,key="data_name")
